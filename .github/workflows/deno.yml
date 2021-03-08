@@ -13,6 +13,9 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
+  schedule:
+    # 定时执行，Runs at 17:00 UTC every day
+    - cron:  '0 17 * * *'
 
 jobs:
   build:
@@ -37,13 +40,13 @@ jobs:
           deno run --allow-net --allow-read --allow-write mod.ts
       - name: Commit files
         run: |
-           git config --local user.email "695601626@qq.com"
-           git config --local user.name "linbingquan"
-           git add README.md
-           git commit -m "Update readme.md"
+          git config --local user.email "695601626@qq.com"
+          git config --local user.name "linbingquan"
+          git add README.md
+          git commit -m "Update readme.md"
       - name: Push changes
-        uses:  ad-m/github-push-action@master
+        uses: ad-m/github-push-action@master
         with:
-           github_token: ${{ secrets.MY_GIT_TOKEN }}
-           branch: main
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: main
 
