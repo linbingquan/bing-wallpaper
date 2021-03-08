@@ -32,6 +32,9 @@ jobs:
           deno-version: ${{ matrix.deno }}
       - run: |
           deno --version
+      - name: Run bing-wallpaper script
+        uses: denolib/setup-deno@v2
+      - run: |
           deno run --allow-net --allow-read --allow-write mod.ts
       - name: Commit files
         run: |
