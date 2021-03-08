@@ -14,6 +14,8 @@ const {
   ]
 } = await fetch(BING_API).then((res) => res.json());// 读取 README.md
 
+console.log({ url, enddate, copyright });
+
 // 读取 README.md 文件
 const text = Deno.readTextFile("./README.md");
 const response = await text.then((response) => response, () => {
