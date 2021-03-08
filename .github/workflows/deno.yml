@@ -32,10 +32,16 @@ jobs:
           deno-version: ${{ matrix.deno }}
       - run: |
           deno --version
-      - name: Run welcome script
-      - run: |
           deno run https://deno.land/std/examples/welcome.ts
-      - name: Run bing-wallpaper script
-      - run: |
           deno run --allow-net --allow-read --allow-write mod.ts
-
+      - name: Commit files
+        run: |
+          git config --local user.email "695601626@qq.com"
+          git config --local user.name "linbingquan"
+          git add README.md
+          git commit -m "Update readme.md"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GIT_TOKEN }}
+          branch: main
