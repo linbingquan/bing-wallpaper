@@ -7,3 +7,6 @@
 20210310 | [Foothills of the Diablo Range in the East Bay region of Northern California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.RollingHills_EN-US0930573674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210311 | ['Step on Board,' the Harriet Tubman Memorial, sculpted by Fern Cunningham, in Boston, Massachusetts (© Anthony Pleva/Alamy)](https://cn.bing.com//th?id=OHR.HarrietTubman_EN-US1054261891_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+
+20210312 | [Thor's Well at Cape Perpetua on the Oregon coast (© Cavan Images/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.CapePerpetua_EN-US1381606733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
