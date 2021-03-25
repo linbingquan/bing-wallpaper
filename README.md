@@ -38,3 +38,5 @@
 20210324 | [Satellite image of the Mania River in Madagascar (© NASA Earth Observatory image by Joshua Stevens, using Landsat data from the US Geological Survey)](https://cn.bing.com//th?id=OHR.LoftedMadagascar_EN-US9720623596_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210325 | [Humpback whale mother pushes her sleeping calf to the surface, Maui, Hawaii (© Ralph Pace/Minden Pictures)](https://cn.bing.com//th?id=OHR.HumpbackMom_EN-US9862782184_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210326 | [Ancient Roman gold mining site of Las Médulas, León province, Spain (© David Santiago Garcia/Getty Images)](https://cn.bing.com//th?id=OHR.GoldMine_EN-US9932494168_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
