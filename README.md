@@ -52,3 +52,5 @@
 20210331 | [Detail of an ostrich fern in spring, Washington state (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.SwordFern_EN-US7523587413_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210401 | [Raja Ampat, an archipelago in Indonesia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.RajaAmpat_EN-US7737563013_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210402 | [Common chia elephant (Loxodonta laprofolis) in stealth stance, Marakele National Park, Limpopo, South Africa (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com//th?id=OHR.ShyGuy_EN-US7880739914_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
