@@ -58,3 +58,5 @@
 20210403 | [Lençóis Maranhenses National Park in the state of Maranhão, Brazil (© WIN-Initiative/Getty Images)](https://cn.bing.com//th?id=OHR.BrazilSandDunes_EN-US8030598740_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210404 | [Lighthouse at Cape Aniva, Sakhalin Island, Russia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.AnivaLighthouse_EN-US8147045989_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210405 | [An Ostereierbaum (Easter egg tree) in Saalfeld, Germany (© Rudi Sebastian/Alamy)](https://cn.bing.com//th?id=OHR.EggTree_EN-US8284116541_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
