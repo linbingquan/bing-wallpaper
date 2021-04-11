@@ -72,3 +72,5 @@
 20210410 | [Square Tower Group in Hovenweep National Monument, Utah (© Brad McGinley Photography/Getty Images)](https://cn.bing.com//th?id=OHR.HovenweepDarkSky_EN-US6328400931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210411 | [Grizzly bear cub siblings playing in Denali National Park and Preserve, Alaska (© Ron Niebrugge/Alamy)](https://cn.bing.com//th?id=OHR.SiblingBears_EN-US6609087772_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210412 | [Mount Yoshino, Nara Prefecture, Japan (© Sean Pavone/iStock/Getty Images Plus)](https://cn.bing.com//th?id=OHR.YoshinoyamaSpring_EN-US6772406506_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
