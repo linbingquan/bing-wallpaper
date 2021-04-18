@@ -86,3 +86,5 @@
 20210417 | [Dalí Theatre-Museum in Figueres, Spain (© Valerija Polakovska/Shutterstock)](https://cn.bing.com//th?id=OHR.DaliMuseum_EN-US9901160892_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210418 | [New River Gorge Bridge in the New River Gorge National Park and Preserve, West Virginia (© Entropy Workshop/iStock/Getty Images Plus)](https://cn.bing.com//th?id=OHR.NewRiverGorge_EN-US7524399883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210419 | [Montalbano Elicona, Messina, Sicily, Italy (© Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.MontalbanoElicona_EN-US7629651237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
