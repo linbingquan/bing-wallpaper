@@ -90,3 +90,5 @@
 20210419 | [Montalbano Elicona, Messina, Sicily, Italy (© Antonino Bartuccio/SOPA Collection/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.MontalbanoElicona_EN-US7629651237_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210420 | [Large school of Munk's devil rays seen from the air, Gulf of California, Mexico (© Mark Carwardine/Minden Pictures)](https://cn.bing.com//th?id=OHR.Mobula_EN-US7757384682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210421 | [Tegallalang Rice Terraces, Ubud, Bali, Indonesia (© Michele Falzone/Alamy)](https://cn.bing.com//th?id=OHR.Ceking_EN-US7899895685_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
