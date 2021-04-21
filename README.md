@@ -92,3 +92,5 @@
 20210420 | [Large school of Munk's devil rays seen from the air, Gulf of California, Mexico (© Mark Carwardine/Minden Pictures)](https://cn.bing.com//th?id=OHR.Mobula_EN-US7757384682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210421 | [Tegallalang Rice Terraces, Ubud, Bali, Indonesia (© Michele Falzone/Alamy)](https://cn.bing.com//th?id=OHR.Ceking_EN-US7899895685_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210422 | [The north coast of Madeira, Portugal (© Hemis/Alamy)](https://cn.bing.com//th?id=OHR.SaoJorgeMadeira_EN-US8002002726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
