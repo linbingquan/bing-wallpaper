@@ -98,3 +98,5 @@
 20210423 | [Mississippi River on the border between Arkansas and Mississippi (© NASA)](https://cn.bing.com//th?id=OHR.MississippiRiver_EN-US2192534174_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210424 | [Casa Batlló in Barcelona, Catalonia, Spain (© Marco Arduino/Sime/eStock Photo)](https://cn.bing.com//th?id=OHR.BatlloJordi_EN-US0619227174_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210425 | [The Cholla Cactus Garden in Joshua Tree National Park, California (© Bryan Jolley/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.ChollaGarden_EN-US0706816050_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
