@@ -110,3 +110,5 @@
 20210429 | [Northern gannets on Great Saltee Island, Ireland (© Danny Green/Minden Pictures)](https://cn.bing.com//th?id=OHR.GannetsSaltee_EN-US1285648780_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210430 | [Aerial view of tidal channels in marshland of the Mockhorn Island State Wildlife Management Area, Virginia (© Shane Gross/Minden Pictures)](https://cn.bing.com//th?id=OHR.Mockhorn_EN-US1360987065_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210501 | ['The Spirit of Harlem' mural by Louis Delsarte in Harlem, New York City (© Pietro Scozzari/agefotostock)](https://cn.bing.com//th?id=OHR.SpiritHarlem_EN-US1474494856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
