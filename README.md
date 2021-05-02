@@ -114,3 +114,5 @@
 20210501 | ['The Spirit of Harlem' mural by Louis Delsarte in Harlem, New York City (© Pietro Scozzari/agefotostock)](https://cn.bing.com//th?id=OHR.SpiritHarlem_EN-US1474494856_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210502 | [Cherry blossoms at the Japanese Tea Garden in Golden Gate Park, San Francisco, California (© luisascanio/iStock/Getty Images)](https://cn.bing.com//th?id=OHR.GGTeaGarden_EN-US1647173456_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210503 | [Burchell's zebra stallions, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com//th?id=OHR.LaughingZebras_EN-US1800178960_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
