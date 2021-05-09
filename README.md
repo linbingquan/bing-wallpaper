@@ -128,3 +128,5 @@
 20210508 | [Norcross Brook and wetlands near Moosehead Lake in Piscataquis County, Maine (© Aaron Black-Schmidt/Tandem Stills + Motion)](https://cn.bing.com//th?id=OHR.MaineWetland_EN-US3940841989_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210509 | [Black-tailed godwits, Netherlands (© Edward van Altena/Minden Pictures)](https://cn.bing.com//th?id=OHR.LimosaLimosa_EN-US4076563094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210510 | [Sea otter mother and newborn pup, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com//th?id=OHR.OtterMom_EN-US8059433484_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
