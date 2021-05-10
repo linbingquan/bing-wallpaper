@@ -130,3 +130,5 @@
 20210509 | [Black-tailed godwits, Netherlands (© Edward van Altena/Minden Pictures)](https://cn.bing.com//th?id=OHR.LimosaLimosa_EN-US4076563094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210510 | [Sea otter mother and newborn pup, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com//th?id=OHR.OtterMom_EN-US8059433484_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210511 | [The Hōkūle'a, a traditional Hawaiian voyaging canoe, departs for a 3-year voyage from Honolulu, Hawaii, on May 17, 2014 (© Reuters/Alamy)](https://cn.bing.com//th?id=OHR.Hokulea_EN-US8698576653_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
