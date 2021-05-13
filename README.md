@@ -136,3 +136,5 @@
 20210512 | [Grinnell Lake, Glacier National Park, Montana (© Pung/Shutterstock)](https://cn.bing.com//th?id=OHR.GrinnellGlacier_EN-US4427090483_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210513 | [A view across the River Shannon in Limerick, County Limerick, Ireland (© Piotr Machowczyk/Shutterstock)](https://cn.bing.com//th?id=OHR.LimerickDay_EN-US4512689467_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210514 | [Shikisai no Oka flower gardens in Biei, Japan (© Tanya Jones/Shutterstock)](https://cn.bing.com//th?id=OHR.ShikisaiBiei_EN-US4615475287_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
