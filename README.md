@@ -148,3 +148,5 @@
 20210518 | [Ålesund, Norway (© AWL Images/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.Alesund_EN-US7597098434_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210519 | [Centre Pompidou Málaga in Málaga, Spain (© Wim Wiskerke/Alamy)](https://cn.bing.com//th?id=OHR.PompidouMalaga_EN-US7695811401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210520 | [Fallen rhododendron petals line a trail through Pisgah National Forest, North Carolina (© aheflin/Getty Images Plus)](https://cn.bing.com//th?id=OHR.RoanRhododendron_EN-US8777664012_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
