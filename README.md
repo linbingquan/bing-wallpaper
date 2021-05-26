@@ -162,3 +162,5 @@
 20210525 | [The Infinite Bridge in Aarhus, Denmark (© Kosmaj/Shutterstock)](https://cn.bing.com//th?id=OHR.AarhusInfinite_EN-US7607613784_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210526 | [Sperm whale off the coast of Roseau, Dominica, in the Caribbean Sea (© Tony Wu/Minden Pictures)](https://cn.bing.com//th?id=OHR.TowelDay_EN-US7748070759_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210527 | [The total lunar eclipse of April 4, 2015, photographed over Monument Valley, Utah (© Alan Dyer/Alamy)](https://cn.bing.com//th?id=OHR.TearDropEclipse_EN-US7861293677_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
