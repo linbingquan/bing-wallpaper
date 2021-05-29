@@ -168,3 +168,5 @@
 20210528 | ['I Can Hear It,' an installation by artist Ivars Drulle on the beach by the villages of Middelkerke and Westende, Belgium (© Arterra Picture Library/Alamy)](https://cn.bing.com//th?id=OHR.ICanHearIt_EN-US7945824197_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210529 | [Robin's nest with a brown-headed cowbird egg (© Edward Kinsman/Science Photo Library)](https://cn.bing.com//th?id=OHR.CowbirdsEgg_EN-US8103879720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210530 | [Alley and bamboo grove in Wuhou Temple, Chengdu, Sichuan province, China (© Eastimages/Getty Images)](https://cn.bing.com//th?id=OHR.RedAlley_EN-US8215991251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
