@@ -172,3 +172,5 @@
 20210530 | [Alley and bamboo grove in Wuhou Temple, Chengdu, Sichuan province, China (© Eastimages/Getty Images)](https://cn.bing.com//th?id=OHR.RedAlley_EN-US8215991251_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210531 | [California sea lion in a forest of giant kelp near the Channel Islands of California (© Nature Picture Library/Alamy)](https://cn.bing.com//th?id=OHR.SeaDog_EN-US8346901369_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210601 | [Military Women's Memorial, located at the gateway to Arlington National Cemetery, Virginia (© Brycia James/Getty Images)](https://cn.bing.com//th?id=OHR.WomensMemorial_EN-US8561851319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
