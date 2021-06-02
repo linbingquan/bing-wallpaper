@@ -176,3 +176,5 @@
 20210601 | [Military Women's Memorial, located at the gateway to Arlington National Cemetery, Virginia (© Brycia James/Getty Images)](https://cn.bing.com//th?id=OHR.WomensMemorial_EN-US8561851319_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210602 | [Aerial view of the Grotta della Poesia (Poetry's Cave) near Roca, Lecce, Italy (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.PoetrysCave_EN-US8786875244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210603 | [Springboks near a waterhole in Etosha National Park, Namibia (© Charlie Summers/Minden Pictures)](https://cn.bing.com//th?id=OHR.EstoshaSpringbok_EN-US8878416660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
