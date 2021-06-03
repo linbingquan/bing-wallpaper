@@ -178,3 +178,5 @@
 20210602 | [Aerial view of the Grotta della Poesia (Poetry's Cave) near Roca, Lecce, Italy (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.PoetrysCave_EN-US8786875244_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210603 | [Springboks near a waterhole in Etosha National Park, Namibia (© Charlie Summers/Minden Pictures)](https://cn.bing.com//th?id=OHR.EstoshaSpringbok_EN-US8878416660_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210604 | [Cyclists on a wooden suspension bridge over the Soča River in Slovenia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.SocaCycles_EN-US8987262585_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
