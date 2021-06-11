@@ -194,3 +194,5 @@
 20210610 | [Annular eclipse over New Mexico, May 20, 2012 (© ssucsy/Getty Images)](https://cn.bing.com//th?id=OHR.AnnularEclipse_EN-US8858263866_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210611 | [Nossa Senhora da Graça Fort near Elvas, Portugal (© Luis Pina Photography/Shutterstock)](https://cn.bing.com//th?id=OHR.ForteNossa_EN-US8946379841_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210612 | [Small loch in Glen Etive, Scotland (© Oliver Hellowell/Minden Pictures)](https://cn.bing.com//th?id=OHR.GlenEtive_EN-US8902001915_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
