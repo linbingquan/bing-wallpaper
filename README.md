@@ -204,3 +204,5 @@
 20210615 | [The George Washington Bridge displays the American flag in honor of Flag Day, June 14, 2016, Fort Lee, New Jersey (© Robert D. Barnes/Getty Images)](https://cn.bing.com//th?id=OHR.LargestFlag_EN-US9248418324_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210616 | [Aerial view of volcanic Lake Pinatubo and mountains, Luzon, Philippines (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.LakePinatubo_EN-US8170111215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210617 | [Green sea turtle diving, Great Barrier Reef, Queensland, Australia (© imageBROKER/Alamy)](https://cn.bing.com//th?id=OHR.GBRTurtle_EN-US9472992921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
