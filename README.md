@@ -206,3 +206,5 @@
 20210616 | [Aerial view of volcanic Lake Pinatubo and mountains, Luzon, Philippines (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.LakePinatubo_EN-US8170111215_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210617 | [Green sea turtle diving, Great Barrier Reef, Queensland, Australia (© imageBROKER/Alamy)](https://cn.bing.com//th?id=OHR.GBRTurtle_EN-US9472992921_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210618 | [Bright Eye sea cave on the Nā Pali Coast, Kauai, Hawaii (© jimkruger/Getty Images)](https://cn.bing.com//th?id=OHR.BrightEye_EN-US9581825024_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
