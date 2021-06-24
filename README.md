@@ -220,3 +220,5 @@
 20210623 | [Seljalandsfoss waterfall in the South Region of Iceland (© Tom Mackie/plainpicture)](https://cn.bing.com//th?id=OHR.SouthCoast_EN-US4824290612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210624 | [Fireflies in Nichinan, Tottori, Japan (© north-tail/Getty Images Plus)](https://cn.bing.com//th?id=OHR.Nichinan_EN-US5055695100_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210625 | [Caribou in Denali National Park and Preserve, Alaska (© Design Pics/Danita Delimont)](https://cn.bing.com//th?id=OHR.DenaliCaribou_EN-US5229911845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
