@@ -234,3 +234,5 @@
 20210629 | [The Cittadella on the island of Gozo, Malta (© Davide Seddio/Getty Images)](https://cn.bing.com//th?id=OHR.Cittadella_EN-US6067516722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210630 | [Rocks on Anse Source d'Argent beach, La Digue Island, Seychelles (© Roland Gerth/eStock Photo)](https://cn.bing.com//th?id=OHR.RocksSeychelles_EN-US7406548278_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210701 | [Manicouagan Crater in Québec, Canada (© Universal History Archive/Universal Images Group via Getty Images)](https://cn.bing.com//th?id=OHR.Manicouagan_EN-US7701393606_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
