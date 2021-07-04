@@ -242,3 +242,5 @@
 20210703 | [A meerkat in Namibia (© Danita Delimont/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.ShyFive_EN-US4337641438_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210704 | [Wakatobi National Park, Indonesia (© Fabio Lamanna/Alamy)](https://cn.bing.com//th?id=OHR.WakatobiNP_EN-US4475854788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210705 | [Fireworks in San Francisco, California (© tampatra/Getty Images)](https://cn.bing.com//th?id=OHR.SFFireworks_EN-US4561699680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
