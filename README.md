@@ -246,3 +246,5 @@
 20210705 | [Fireworks in San Francisco, California (© tampatra/Getty Images)](https://cn.bing.com//th?id=OHR.SFFireworks_EN-US4561699680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210706 | [Serra da Malagueta mountains on Santiago Island, Cabo Verde (© Samuel Borges Photography/Shutterstock)](https://cn.bing.com//th?id=OHR.SerraMalagueta_EN-US4627693270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210707 | [Tawny frogmouth chick, Australia (© SnapRapid/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.TawnyFrogmouth_EN-US4707407967_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
