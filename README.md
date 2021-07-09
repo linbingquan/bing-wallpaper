@@ -252,3 +252,5 @@
 20210708 | [Kazem Dashi rock formation in Lake Urmia, Iran (© Ali/Adobe Stock)](https://cn.bing.com//th?id=OHR.LakeUrmia_EN-US4986086287_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210709 | [The Appalachian Trail in Stokes State Forest, New Jersey (© Frank DeBonis/Getty Images)](https://cn.bing.com//th?id=OHR.AppalachianTrail_EN-US5662298732_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210710 | [Ortygia, a small island off the coast of Syracuse, Sicily, Italy (© DaLiu/Shutterstock)](https://cn.bing.com//th?id=OHR.Ortygia_EN-US5940165843_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
