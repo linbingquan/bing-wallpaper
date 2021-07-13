@@ -260,3 +260,5 @@
 20210712 | [Spiral aloe (© David Madison/Getty Images)](https://cn.bing.com//th?id=OHR.SpiralAloe_EN-US6880291357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210713 | [Wave crashing on Farolim de Felgueiras, a lighthouse in Porto, Portugal (© Stephan Zirwes/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.LighthouseWave_EN-US6948276315_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210714 | [Moose crossing a pond below Mount Moran, Grand Teton National Park, Wyoming (© Jim Stamates/Minden Pictures)](https://cn.bing.com//th?id=OHR.MooseVelvet_EN-US7292213302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
