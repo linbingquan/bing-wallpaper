@@ -262,3 +262,5 @@
 20210713 | [Wave crashing on Farolim de Felgueiras, a lighthouse in Porto, Portugal (© Stephan Zirwes/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.LighthouseWave_EN-US6948276315_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210714 | [Moose crossing a pond below Mount Moran, Grand Teton National Park, Wyoming (© Jim Stamates/Minden Pictures)](https://cn.bing.com//th?id=OHR.MooseVelvet_EN-US7292213302_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210715 | [Blacktip reef sharks off the coast of Tahiti, French Polynesia (© Paul Mckenzie/Minden Pictures)](https://cn.bing.com//th?id=OHR.SharkAwareness_EN-US7444020818_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
