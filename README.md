@@ -268,3 +268,5 @@
 20210716 | [Boats float by rice fields on the Ngo Dong River in Ninh Bình province, Vietnam (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com//th?id=OHR.NgoDong_EN-US7569222084_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210717 | [Mont Choisy Beach, Mauritius (© Robert Harding World Imagery/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.MontChoisy_EN-US7121697055_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210718 | [A Loepa oberthuri moth (© Robert Thompson/Minden Pictures)](https://cn.bing.com//th?id=OHR.LoepaOberthuri_EN-US7208560265_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
