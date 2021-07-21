@@ -276,3 +276,5 @@
 20210720 | [Colorful alleyway in the medina of Tétouan, Morocco (© Jan Wlodarczyk/eStock Photo)](https://cn.bing.com//th?id=OHR.Tetouan_EN-US7379560261_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210721 | [Composite image of the moon (© Prathamesh Jaju)](https://cn.bing.com//th?id=OHR.PrathameshJaju_EN-US8876008160_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210722 | [Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)](https://cn.bing.com//th?id=OHR.CasteldelMonte_EN-US0394527485_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
