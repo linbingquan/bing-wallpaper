@@ -280,3 +280,5 @@
 20210722 | [Castel del Monte, Apulia, Italy (© Toni Spagone/Alamy)](https://cn.bing.com//th?id=OHR.CasteldelMonte_EN-US0394527485_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210723 | [The Minokake-Iwa rocks off the coast of the Izu Peninsula, Japan (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com//th?id=OHR.MinokakeRocks_EN-US9026307089_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210724 | [Tokyo Tower in Minato City, Tokyo, Japan (© Yukinori Hasumi/Getty Images)](https://cn.bing.com//th?id=OHR.TokyoMetropolis_EN-US9112375652_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
