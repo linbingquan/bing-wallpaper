@@ -288,3 +288,5 @@
 20210726 | ['Field of Light' by artist Bruce Munro at Uluru, Australia (© Sheralee Stoll/Alamy)](https://cn.bing.com//th?id=OHR.BruceMunroUluru_EN-US9286495835_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210727 | [Mangrove trees, Walakiri Beach, Sumba Island, Indonesia (© Tengguo Wu/Getty Images)](https://cn.bing.com//th?id=OHR.DancingTrees_EN-US9480266344_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210728 | [Adler Planetarium near Lake Michigan, Chicago, Illinois (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.AdlerPlanetarium_EN-US9558785232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
