@@ -294,3 +294,5 @@
 20210729 | [School of sea goldies with feather stars, Great Barrier Reef, Queensland, Australia (© Gary Bell/Minden Pictures)](https://cn.bing.com//th?id=OHR.SeaGoldie_EN-US9625167980_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210730 | [Tiger camouflaged in tall grass, Assam, India (© Sandesh Kadur/Minden Pictures)](https://cn.bing.com//th?id=OHR.PantheraTigris_EN-US9729163497_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210731 | [Otter Cliffs, Acadia National Park, Maine (© dbimages/Alamy)](https://cn.bing.com//th?id=OHR.OtterCliff_EN-US6679872579_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
