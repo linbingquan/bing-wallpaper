@@ -304,3 +304,5 @@
 20210803 | [Mesas, Upper Cathedral Valley, Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com//th?id=OHR.UpperCathedral_EN-US7580471789_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210804 | [Wachsenburg Castle near Erfurt, Germany (© Radius Images/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.WachsenburgCastle_EN-US0450745616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210805 | [Clouded leopard (© Dhritiman Mukherjee/Alamy)](https://cn.bing.com//th?id=OHR.Neofelis_EN-US8038280591_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
