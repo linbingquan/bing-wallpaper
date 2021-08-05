@@ -306,3 +306,5 @@
 20210804 | [Wachsenburg Castle near Erfurt, Germany (© Radius Images/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.WachsenburgCastle_EN-US0450745616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210805 | [Clouded leopard (© Dhritiman Mukherjee/Alamy)](https://cn.bing.com//th?id=OHR.Neofelis_EN-US8038280591_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210806 | [The Sky Pool at Embassy Gardens in London, England (© Xinhua News Agency/Getty Images)](https://cn.bing.com//th?id=OHR.SkyPool_EN-US8327769804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
