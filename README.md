@@ -310,3 +310,5 @@
 20210806 | [The Sky Pool at Embassy Gardens in London, England (© Xinhua News Agency/Getty Images)](https://cn.bing.com//th?id=OHR.SkyPool_EN-US8327769804_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210807 | [Salisbury Crags in Holyrood Park overlooking Edinburgh, Scotland (© Andrew Merry/Getty Images)](https://cn.bing.com//th?id=OHR.SalisburyCrags_EN-US5552613401_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210808 | [Salt cones on Salar de Uyuni, Bolivia (© John Shaw/Minden Pictures)](https://cn.bing.com//th?id=OHR.SaltCones_EN-US8727302779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
