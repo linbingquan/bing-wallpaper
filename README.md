@@ -316,3 +316,5 @@
 20210809 | [Elizabeth Quay Bridge in Perth, Australia (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.QuayBridge_EN-US9006727077_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210810 | [Māori rock carving by Matahi Whakataka-Brightwell, Lake Taupo, North Island, New Zealand (© Evgueni Zverev/Alamy)](https://cn.bing.com//th?id=OHR.MineBay_EN-US9163715590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210811 | [The Smithsonian Arts and Industries Building in Washington, DC (© Ron Blunt/Courtesy Smithsonian)](https://cn.bing.com//th?id=OHR.ArtsandIndustries_EN-US9282950585_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
