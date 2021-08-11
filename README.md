@@ -318,3 +318,5 @@
 20210810 | [Māori rock carving by Matahi Whakataka-Brightwell, Lake Taupo, North Island, New Zealand (© Evgueni Zverev/Alamy)](https://cn.bing.com//th?id=OHR.MineBay_EN-US9163715590_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210811 | [The Smithsonian Arts and Industries Building in Washington, DC (© Ron Blunt/Courtesy Smithsonian)](https://cn.bing.com//th?id=OHR.ArtsandIndustries_EN-US9282950585_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210812 | [The Perseid meteor shower photographed at the Dinosaur Museum of Erenhot in Inner Mongolia, China (© bjdlzx/Getty Images)](https://cn.bing.com//th?id=OHR.DinoShower_EN-US8295174033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
