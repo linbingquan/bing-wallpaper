@@ -322,3 +322,5 @@
 20210812 | [The Perseid meteor shower photographed at the Dinosaur Museum of Erenhot in Inner Mongolia, China (© bjdlzx/Getty Images)](https://cn.bing.com//th?id=OHR.DinoShower_EN-US8295174033_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210813 | [African bush elephant herd, Okavango Delta, Botswana (© Juan-Carlos Munoz/Minden Pictures)](https://cn.bing.com//th?id=OHR.OkavangoHerd_EN-US9805568447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210814 | [Horned ghost crab, Grand Anse, Praslin Island, Seychelles (© Ingo Schulz/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.Southpaw_EN-US5351899274_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
