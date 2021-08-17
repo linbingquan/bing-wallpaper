@@ -330,3 +330,5 @@
 20210816 | [Strandbad Tiefenbrunnen, a public pool on the shore of Lake Zürich, Switzerland (© Amazing Aerial Agency/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.StrandbadTiefenbrunnen_EN-US6967556801_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210817 | [Silhouette of Shambhala roller coaster at sunset in PortAventura Park, Salou, Tarragona, Spain (© Joaquim F. P./Getty Images)](https://cn.bing.com//th?id=OHR.PortAventura_EN-US7476980187_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210818 | [Stairway to Heaven trail in Wawayanda State Park, New Jersey (© Leembe/Getty Images)](https://cn.bing.com//th?id=OHR.PochuckValley_EN-US7792130272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
