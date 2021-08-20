@@ -336,3 +336,5 @@
 20210819 | [The Old Town of Dubrovnik, Croatia (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com//th?id=OHR.RedRoofTile_EN-US7950086465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210820 | [Giant manta ray and a photographer off the Ningaloo Coast, Australia (© Shutterstock Premier)](https://cn.bing.com//th?id=OHR.GiantManta_EN-US0573503252_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210821 | [Rub' al Khali desert on the border of Oman and the Emirate of Dubai (© Daniel Schoenen/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.EmptyQuarter_EN-US0636903975_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
