@@ -352,3 +352,5 @@
 20210827 | [A sea swallow feeding on the tentacles of a blue button in Coffs Harbour, New South Wales, Australia (© Gary Bell/Minden Pictures)](https://cn.bing.com//th?id=OHR.SeaSwallow_EN-US1134590280_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210828 | [Casa do Penedo (House of the Rock) in Portugal (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com//th?id=OHR.FlintstoneHouse_EN-US2289408745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210829 | [Red-billed oxpeckers on an impala in Mpumalanga, South Africa (© Heini Wehrle/Minden Pictures)](https://cn.bing.com//th?id=OHR.Mpumalanga_EN-US2361653913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
