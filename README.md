@@ -354,3 +354,5 @@
 20210828 | [Casa do Penedo (House of the Rock) in Portugal (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com//th?id=OHR.FlintstoneHouse_EN-US2289408745_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210829 | [Red-billed oxpeckers on an impala in Mpumalanga, South Africa (© Heini Wehrle/Minden Pictures)](https://cn.bing.com//th?id=OHR.Mpumalanga_EN-US2361653913_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210830 | [Underground lake in Ruskeala Mountain Park, Karelia, Russia (© Konstantin Trubavin/Offset by Shutterstock)](https://cn.bing.com//th?id=OHR.Ruskeala_EN-US2421855092_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
