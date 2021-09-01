@@ -360,3 +360,5 @@
 20210831 | [Crater glow from Mount Mayon in the Philippines (© Per-Andre Hoffmann/Cavan)](https://cn.bing.com//th?id=OHR.MayonVolcano_EN-US2517637729_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
 20210901 | [Đurđevića Tara Bridge in Montenegro (© Hike The World/Shutterstock)](https://cn.bing.com//th?id=OHR.DjurdjevicaBridge_EN-US2627065806_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+
+20210902 | [A porcini mushroom (© vnosokin/Getty Images)](https://cn.bing.com//th?id=OHR.Porcini_EN-US2729999043_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
