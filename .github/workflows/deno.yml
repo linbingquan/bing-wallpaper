@@ -38,8 +38,8 @@ jobs:
         run: |
           git config --local user.email "695601626@qq.com"
           git config --local user.name "linbingquan"
-          git add README.md
-          git commit -m "Update readme.md"
+          git add ./deploy/*
+          git commit -m "feat(deploy): workflow action for deploy"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
