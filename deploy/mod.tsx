@@ -26,7 +26,9 @@ function App() {
 function ListItem(data: IDataItem) {
   return (
     <div className="item">
-      <img loading="lazy" src={data.url} />
+      <a href={data.url} target="_blank">
+        <img loading="lazy" src={data.preview_url} />
+      </a>
       <div className="footer">
         <div className="enddate">{data.enddate}</div>
         <div className="copyright">{data.copyright}</div>
