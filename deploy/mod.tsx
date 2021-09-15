@@ -69,6 +69,15 @@ async function handleRequest(request: Request) {
     });
   }
 
+  if (pathname.startsWith("/favicon.ico")) {
+    const file = await Deno.readFile("./deploy/favicon.ico");
+    return new Response(file, {
+       headers: {
+        "content-type": "image/x-icon",
+      },
+    });
+  }
+
   // renderToString generates html string from JSX components.
   return new Response(renderToString(<App />), {
     headers: { "content-type": "text/html; charset=utf-8" },
