@@ -40,7 +40,7 @@ const tody_wallpaper = json.find((item: IDataItem) => item.enddate === Number(en
 if (!tody_wallpaper) {
   // 追加今天的壁纸
   const img_url = url.slice(0, url.indexOf('&'));
-  json.push({ enddate: Number(enddate), copyright, url: `${BING_URL}/${img_url}` });
+  json.push({ enddate: Number(enddate), copyright, url: `${BING_URL}${img_url}` });
 
   // 格式化为 jsonstring 格式
   const json_str = JSON.stringify(json, null, 4);
