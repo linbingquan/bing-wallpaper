@@ -25,6 +25,8 @@ function App(props: any) {
     <html>
       <head>
         <title>bing-wallpaper</title>
+        <link rel="icon" href="/favicon.ico" sizes="32x32" />
+        <link rel="icon" href="/logo.svg" type="image/svg+xml" />
         <link rel="stylesheet" href="style.css" />
       </head>
       <body>
@@ -54,6 +56,7 @@ const ContextType: Record<string, string> = {
   "css": "text/css",
   "json": "application/json; charset=UTF-8",
   "ico": "image/x-icon",
+  "svg": "image/svg+xml",
   "html": "text/html; charset=utf-8",
   "txt": "text/plain",
 };
@@ -101,6 +104,9 @@ router.get("/", async (ctx: any) => {
 }).get("/favicon.ico", async (ctx: any) => {
   const file = await Deno.readFile("./deploy/favicon.ico");
   ctx.reponse = new Response(file, getResponseInit("ico"));
+}).get("/logo.svg", async (ctx: any) => {
+  const file = await Deno.readFile("./deploy/logo.svg");
+  ctx.reponse = new Response(file, getResponseInit("svg"));
 });
 
 const app = new Application();
