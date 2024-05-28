@@ -19,7 +19,7 @@ const BING_API =
 
 const images = await fetch(BING_API)
   .then((res) => res.json())
-  .then((res: { images: Wallpaper[] }) => res.images);
+  .then((json: { images: Wallpaper[] }) => json.images);
 
 images.forEach((image) => {
   const {
