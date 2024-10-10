@@ -9,7 +9,7 @@ export default function App({ Component }: PageProps) {
         <link rel="stylesheet" href="/styles.css" />
         <link
           rel="author"
-          href="https://github.com/linbingquan/bing-wallpaper"
+          href="林炳权,linbingquan,https://github.com/linbingquan/bing-wallpaper"
         />
       </head>
       <body>

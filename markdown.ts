@@ -27,7 +27,7 @@ class Markdown {
     this.content += rows.map((row) => row.join("")).join("\n\n");
     return this;
   }
-  async write(path = "./", fileName = "REAME", content = this.content) {
+  async write(path: string, fileName: string, content = this.content) {
     const file = await Deno.create(`${path}${fileName}.md`);
     const data = new TextEncoder().encode(content);
     await file.write(data);
@@ -58,14 +58,14 @@ type Wallpaper = {
 };
 
 const today = (item: Wallpaper) =>
-  image(`${item.enddate}`, item.url += "&rf=LaDigue_UHD.jpg&w=830&c=1");
+  image(`${item.enddate}`, item.url += "&rf=LaDigue_UHD.jpg&w=900&c=1");
 
 const preview = (item: Wallpaper) =>
-  image(`${item.enddate}`, item.url += "&rf=LaDigue_UHD.jpg&w=250&c=1");
+  image(`${item.enddate}`, item.url += "&rf=LaDigue_UHD.jpg&w=272&c=1");
 
 const wallpaper = wallpapers.shift();
 if (wallpaper) markdown.paragraph(today(wallpaper));
 
-markdown.table([...chunk(wallpapers.splice(0, 9).map(preview), 3)]);
+markdown.paragraph(wallpapers.splice(0, 9).map(preview).join("\n"));
 
-markdown.write();
+markdown.write("./", "README");

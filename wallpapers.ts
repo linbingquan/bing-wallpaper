@@ -45,7 +45,8 @@ images.forEach((image) => {
 });
 
 // 格式化 json 并写入文件
-const string = JSON.stringify(wallpapers, null, 2);
+const array = wallpapers.sort((a, b) => Number(a.enddate) - Number(b.enddate));
+const string = JSON.stringify(array, null, 2);
 const path = "./fresh/routes/wallpapers.json";
 Deno.writeTextFileSync(path, string);
 console.log(`${path} 更新成功`);

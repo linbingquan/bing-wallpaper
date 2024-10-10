@@ -1,5 +1,5 @@
 interface Props {
-  enddate: number;
+  enddate: string | number;
   url: string;
   copyright: string;
 }

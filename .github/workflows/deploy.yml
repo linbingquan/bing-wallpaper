@@ -49,8 +49,7 @@ jobs:
         run: |
           git config --local user.email "695601626@qq.com"
           git config --local user.name "linbingquan"
-          git add .
-          git commit -m "feat(deploy): workflow action for deploy"
+          deno run --allow-read --allow-run --allow-env git.ts
 
       - name: Push changes
         uses: ad-m/github-push-action@master

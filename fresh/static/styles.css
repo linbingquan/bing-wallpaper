@@ -3,6 +3,15 @@
 @tailwind utilities;
 
 :root {
+  font-family:
+    ui-monospace,
+    SFMono-Regular,
+    Menlo,
+    Monaco,
+    Consolas,
+    "Liberation Mono",
+    "Courier New",
+    monospace;
   color-scheme: light dark;
 }
 
@@ -16,18 +25,39 @@ body {
 }
 
 .bing-wallpaper {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+@media all and (max-width: 1536px) {
+  .bing-wallpaper {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+@media all and (max-width: 1280px) {
+  .bing-wallpaper {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+@media all and (max-width: 1024px) {
+  .bing-wallpaper {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media all and (max-width: 768px) {
+  .bing-wallpaper {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media all and (max-width: 640px) {
+  .bing-wallpaper {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .bing-wallpaper .wallpaper {
   overflow: hidden;
   position: relative;
-  margin: 4px;
-  width: 400px;
-  border-radius: 4px;
 }
 
 .bing-wallpaper .wallpaper .footer {
