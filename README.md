@@ -27,4 +27,3 @@ deno task wallpapers
 ![20241007](https://www.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20241006](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20241005](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-
