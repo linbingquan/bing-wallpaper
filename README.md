@@ -16,15 +16,14 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20241014](https://www.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20241101](https://www.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
-![20241013](https://www.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241012](https://www.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241011](https://www.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241010](https://www.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241009](https://www.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241008](https://www.bing.com/th?id=OHR.ElbePhilharmonic_EN-US8658450086_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241007](https://www.bing.com/th?id=OHR.SoranoItaly_EN-US2208208147_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241006](https://www.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241005](https://www.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-
+![20241031](https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20241030](https://www.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20241029](https://www.bing.com/th?id=OHR.PumpkinMist_EN-US3686565863_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20241028](https://www.bing.com/th?id=OHR.PolarBearHug_EN-US3461212514_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20241027](https://www.bing.com/th?id=OHR.GhostForest_EN-US3389955484_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20241026](https://www.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20241025](https://www.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20241024](https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20241023](https://www.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
