@@ -16,8 +16,9 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20241024](https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20241025](https://www.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20241024](https://www.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20241023](https://www.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20241022](https://www.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20241021](https://www.bing.com/th?id=OHR.SmilingSloth_EN-US2707836219_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -26,4 +27,3 @@ deno task wallpapers
 ![20241018](https://www.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20241017](https://www.bing.com/th?id=OHR.FossilsDorset_EN-US9782204825_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20241016](https://www.bing.com/th?id=OHR.MaraMigration_EN-US9704012409_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241015](https://www.bing.com/th?id=OHR.PuebloNankoweap_EN-US9631367700_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
