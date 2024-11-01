@@ -1,5 +1,5 @@
 import { type PageProps } from "$fresh/server.ts";
-export default function App({ Component }: PageProps) {
+export default function App({ Component, url }: PageProps) {
   return (
     <html>
       <head>
@@ -11,6 +11,9 @@ export default function App({ Component }: PageProps) {
           rel="author"
           href="林炳权,linbingquan,https://github.com/linbingquan/bing-wallpaper"
         />
+        {url.host.includes("localhost") === false && (
+          <script type="text/javascript" src="/clarity.js"></script>
+        )}
       </head>
       <body>
         <Component />
