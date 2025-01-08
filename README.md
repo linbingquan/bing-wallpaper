@@ -16,8 +16,9 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250108](https://www.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250109](https://www.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250108](https://www.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250107](https://www.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250106](https://www.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250105](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -26,4 +27,3 @@ deno task wallpapers
 ![20250102](https://www.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250101](https://www.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20241231](https://www.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20241230](https://www.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
