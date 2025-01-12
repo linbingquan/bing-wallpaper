@@ -16,8 +16,9 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250112](https://www.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250113](https://www.bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250112](https://www.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250111](https://www.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250110](https://www.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250109](https://www.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -26,4 +27,3 @@ deno task wallpapers
 ![20250106](https://www.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250105](https://www.bing.com/th?id=OHR.VietnamFalls_EN-US9133406245_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250104](https://www.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250103](https://www.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
