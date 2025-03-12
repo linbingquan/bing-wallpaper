@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250312](https://cn.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250313](https://cn.bing.com/th?id=OHR.HoliColors_ZH-CN2177185823_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250313](https://www.bing.com/th?id=OHR.ChateauLoire_EN-US8827570825_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20250312](https://cn.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250312](https://www.bing.com/th?id=OHR.NusaPenida_EN-US8722184767_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250311](https://cn.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250311](https://www.bing.com/th?id=OHR.NappingLion_EN-US8441298325_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20250310](https://www.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250309](https://cn.bing.com/th?id=OHR.ItalyClock_ZH-CN0846995743_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250309](https://www.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250308](https://cn.bing.com/th?id=OHR.WaddenSeaBiosphereReserve_ZH-CN9012125146_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250308](https://www.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
