@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250402](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250403](https://cn.bing.com/th?id=OHR.SaguaroRainbow_ZH-CN0139056375_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250403](https://www.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20250402](https://cn.bing.com/th?id=OHR.UtahBadlands_ZH-CN9174002963_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250402](https://www.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250401](https://cn.bing.com/th?id=OHR.TicanFrog_ZH-CN8949758487_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250401](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20250331](https://www.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250330](https://cn.bing.com/th?id=OHR.SydneyHarbour_ZH-CN8119451632_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250330](https://www.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250329](https://cn.bing.com/th?id=OHR.CarrizoBloom_ZH-CN7967467357_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250329](https://www.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
