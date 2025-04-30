@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250430](https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250501](https://cn.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250501](https://www.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20250430](https://cn.bing.com/th?id=OHR.FozdoIguacu2025_ZH-CN3781165595_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250430](https://www.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250429](https://cn.bing.com/th?id=OHR.GardensVillandry_ZH-CN3660934263_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250429](https://www.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20250428](https://www.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250427](https://cn.bing.com/th?id=OHR.RedwoodGrove_ZH-CN3339576686_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250427](https://www.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250426](https://cn.bing.com/th?id=OHR.BrucePeninsula_ZH-CN3258296517_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250426](https://www.bing.com/th?id=OHR.MagellanicPenguin_EN-US3332048594_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
