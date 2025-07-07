@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250707](https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250708](https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250708](https://www.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20250707](https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250707](https://www.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250706](https://cn.bing.com/th?id=OHR.MesquiteFlats_ZH-CN7152959188_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250706](https://www.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20250705](https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250704](https://cn.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250704](https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250703](https://cn.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250703](https://www.bing.com/th?id=OHR.MaroonClownfish_EN-US0391262783_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
