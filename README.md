@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250708](https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250709](https://cn.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250709](https://www.bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20250708](https://cn.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250708](https://www.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250707](https://cn.bing.com/th?id=OHR.ShetlandGannets_ZH-CN7279521125_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250707](https://www.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20250706](https://www.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250705](https://cn.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250705](https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250704](https://cn.bing.com/th?id=OHR.OroseiSardegna_ZH-CN5789138034_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250704](https://www.bing.com/th?id=OHR.RainbowRiver_EN-US0442967532_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
