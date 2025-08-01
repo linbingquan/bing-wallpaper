@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250801](https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250802](https://cn.bing.com/th?id=OHR.FruitaPetroglyphs_ZH-CN5423905955_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250802](https://www.bing.com/th?id=OHR.EdinburghFringe_EN-US5923216873_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20250801](https://cn.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250801](https://www.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250731](https://cn.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250731](https://www.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20250730](https://www.bing.com/th?id=OHR.TigerDay_EN-US5038876410_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250729](https://cn.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250729](https://www.bing.com/th?id=OHR.MongoliaYurts_EN-US1803457525_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250728](https://cn.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250728](https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
