@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20250812](https://cn.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20250813](https://cn.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20250813](https://www.bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20250812](https://cn.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250812](https://www.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250811](https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250811](https://www.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20250810](https://www.bing.com/th?id=OHR.MaoriRock_EN-US6499689741_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250809](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20250809](https://www.bing.com/th?id=OHR.IguazuArgentina_EN-US5953375078_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250808](https://cn.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20250808](https://www.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
