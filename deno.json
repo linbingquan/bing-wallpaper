@@ -1,0 +1,30 @@
+{
+  "nodeModulesDir": "auto",
+  "workspace": [
+    "./packages/*"
+  ],
+  "tasks": {
+    "start": "deno task server",
+    "server": {
+      "command": "deno run --allow-net --allow-read jsr:@std/http/file-server ./packages/hono/dist",
+      "dependencies": ["build"]
+    },
+    "build": {
+      "command": "deno task --filter @scope/hono build",
+      "dependencies": ["wallpapers"]
+    },
+    "markdown": "deno run --allow-read --allow-write scripts/markdown.ts",
+    "wallpapers": "deno run --allow-net --allow-read --allow-write scripts/wallpapers.ts",
+    "git": "deno run --allow-read --allow-run --allow-env scripts/git.ts"
+  },
+  "imports": {
+    "@spawn/git": "jsr:@spawn/git@^0.0.1",
+    "@std/collections": "jsr:@std/collections@^1.1.3",
+    "@std/dotenv": "jsr:@std/dotenv@^0.225.5",
+    "@tailwindcss/cli": "npm:@tailwindcss/cli@^4.1.14",
+    "@tailwindcss/vite": "npm:@tailwindcss/vite@^4.1.14",
+    "hono": "jsr:@hono/hono@^4.9.9",
+    "vite": "npm:vite@^7.1.9",
+    "tailwindcss": "npm:tailwindcss@^4.1.14"
+  }
+}

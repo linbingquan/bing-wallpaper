@@ -1,0 +1,15 @@
+{
+  "name": "@scope/hono",
+  "exports": "./mod.ts",
+  "tasks": {
+    "build": {
+      "command": "deno run --allow-read --allow-write --unstable-raw-imports build.ts",
+      "dependencies": ["tailwind"]
+    },
+    "tailwind": "deno run -A @tailwindcss/cli -i styles.css -o ./dist/styles.css -m"
+  },
+  "compilerOptions": {
+    "jsx": "precompile",
+    "jsxImportSource": "hono/jsx"
+  }
+}

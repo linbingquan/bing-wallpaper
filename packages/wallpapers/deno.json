@@ -1,0 +1,4 @@
+{
+  "name": "@scope/wallpapers",
+  "exports": "./mod.ts"
+}
