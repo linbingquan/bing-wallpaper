@@ -16,14 +16,14 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20251005](https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20261021](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
-![20251005](https://www.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251004](https://cn.bing.com/th?id=OHR.DragonEndeavour_ZH-CN8160066040_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251004](https://www.bing.com/th?id=OHR.SkyeHeather_EN-US9221942108_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251003](https://cn.bing.com/th?id=OHR.SkyeHeather_ZH-CN2820283990_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251003](https://www.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251002](https://cn.bing.com/th?id=OHR.OxbowBend_ZH-CN7211791969_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251002](https://www.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251001](https://cn.bing.com/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251001](https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261021](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261020](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261020](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261019](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261019](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261018](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261018](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261017](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261017](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
