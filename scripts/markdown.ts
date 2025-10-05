@@ -39,7 +39,7 @@ wallpapers.sort((a, b) => Number(b.enddate) - Number(a.enddate));
 
 const markdown = new Markdown();
 
-const website = "https://bing-wallpaper.deno.dev";
+const website = "https://linbingquan.github.io/bing-wallpaper/";
 
 markdown
   .header("Bing Wallpaper", 1)

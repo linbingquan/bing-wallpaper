@@ -1,6 +1,6 @@
 # Bing Wallpaper
 
-[https://bing-wallpaper.deno.dev](https://bing-wallpaper.deno.dev)
+[https://linbingquan.github.io/bing-wallpaper/](https://linbingquan.github.io/bing-wallpaper/)
 
 ## Local Preview
 
