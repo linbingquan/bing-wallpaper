@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20251029](https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20251030](https://cn.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20251030](https://www.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20251029](https://cn.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251029](https://www.bing.com/th?id=OHR.TepliceRocks_EN-US4098225022_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251028](https://cn.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251028](https://www.bing.com/th?id=OHR.AfricanRaven_EN-US4057369898_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20251027](https://www.bing.com/th?id=OHR.PumpkinFarm_EN-US3773448576_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251026](https://cn.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251026](https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251025](https://cn.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251025](https://www.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
