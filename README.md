@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20251112](https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20251113](https://cn.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20251113](https://www.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20251112](https://cn.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251112](https://www.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251111](https://cn.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251111](https://www.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20251110](https://www.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251109](https://cn.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251109](https://www.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251108](https://cn.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251108](https://www.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
