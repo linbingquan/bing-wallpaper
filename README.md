@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20251122](https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20251123](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20251123](https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20251122](https://cn.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251122](https://www.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251121](https://cn.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251121](https://www.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20251120](https://www.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251119](https://cn.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251119](https://www.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251118](https://cn.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251118](https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
