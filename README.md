@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20251223](https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20251224](https://cn.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20251224](https://www.bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20251223](https://cn.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251223](https://www.bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251222](https://cn.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251222](https://www.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20251221](https://www.bing.com/th?id=OHR.StarLanterns_EN-US5419993556_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251220](https://cn.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20251220](https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251219](https://cn.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20251219](https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
