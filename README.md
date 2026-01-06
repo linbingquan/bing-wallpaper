@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20260106](https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20260107](https://cn.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20260107](https://www.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20260106](https://cn.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260106](https://www.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260105](https://cn.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260105](https://www.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20260104](https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-US6594933852_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260103](https://cn.bing.com/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260103](https://www.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260102](https://cn.bing.com/th?id=OHR.VeniceView_ZH-CN3088407995_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260102](https://www.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
