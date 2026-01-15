@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20260115](https://cn.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20260116](https://cn.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20260116](https://www.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20260115](https://cn.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260115](https://www.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260114](https://cn.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260114](https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20260113](https://www.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260112](https://cn.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260112](https://www.bing.com/th?id=OHR.BlueMorocco_EN-US0026059455_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260111](https://cn.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260111](https://www.bing.com/th?id=OHR.MatterhornSunrise_EN-US9978097106_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
