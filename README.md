@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20260614](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20260615](https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20260615](https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20260614](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260614](https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260613](https://cn.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260613](https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20260612](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260611](https://cn.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260611](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260610](https://cn.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260610](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
