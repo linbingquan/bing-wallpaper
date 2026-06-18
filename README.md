@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20260618](https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20260619](https://cn.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20260619](https://www.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20260618](https://cn.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260618](https://www.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260617](https://cn.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260617](https://www.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20260616](https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260615](https://cn.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260615](https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260614](https://cn.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260614](https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
