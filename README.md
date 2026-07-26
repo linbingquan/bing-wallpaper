@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20260726](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20260727](https://cn.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20260727](https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20260726](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260726](https://www.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260725](https://cn.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260725](https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20260724](https://www.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260723](https://cn.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20260723](https://www.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260722](https://cn.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20260722](https://www.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
