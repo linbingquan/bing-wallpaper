@@ -16,8 +16,10 @@ deno task wallpapers
 
 ## Latest Bing Wallpaper
 
-![20261017](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20261018](https://cn.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20261018](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261017](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261017](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261016](https://cn.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261016](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -25,5 +27,3 @@ deno task wallpapers
 ![20261015](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261014](https://cn.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261014](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261013](https://cn.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261013](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
