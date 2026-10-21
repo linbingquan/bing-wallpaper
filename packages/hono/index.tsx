@@ -1,8 +1,10 @@
 import { wallpapers } from "@scope/wallpapers";
 import { Hono } from "hono";
 import type { JSX } from "hono/jsx/jsx-runtime";
-import styles from "./dist/styles.css" with { type: "text" };
 import Wallpaper from "./Wallpaper.tsx";
+import { readFileSync } from "node:fs";
+
+const styles = readFileSync(new URL("./dist/styles.css", import.meta.url), "utf8");
 
 const cn = wallpapers.filter((item) => item.url.includes("cn.bing.com"));
 const www = wallpapers.filter((item) => item.url.includes("www.bing.com"));

@@ -1,0 +1,11 @@
+{
+  "name": "@scope/hono",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": "./mod.ts",
+  "scripts": {
+    "build": "tsx build.ts",
+    "tailwind": "tailwindcss -i styles.css -o ./dist/styles.css -m"
+  }
+}

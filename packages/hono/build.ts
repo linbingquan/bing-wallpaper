@@ -1,12 +1,8 @@
-// build.ts
 import app from "./index.tsx";
-import { toSSG } from "hono/ssg";
 import fs from "node:fs/promises";
+import { rm } from "node:fs/promises";
+import { toSSG } from "hono/ssg";
 
 const dir = "./dist";
-const stat = Deno.statSync(dir);
-if (stat.isDirectory) {
-  Deno.removeSync(dir, { recursive: true });
-}
-
-toSSG(app, fs, { dir });
+await rm(dir, { recursive: true, force: true });
+await toSSG(app, fs, { dir });

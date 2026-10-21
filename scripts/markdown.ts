@@ -1,4 +1,5 @@
 import { wallpapers } from "@scope/wallpapers";
+import { writeFile } from "node:fs/promises";
 
 function link(text = "", url = "") {
   return `[${text}](${url})`;
@@ -27,10 +28,7 @@ class Markdown {
     return this;
   }
   async write(path: string, fileName: string, content = this.content) {
-    const file = await Deno.create(`${path}${fileName}.md`);
-    const data = new TextEncoder().encode(content);
-    await file.write(data);
-    await file.close();
+    await writeFile(`${path}${fileName}.md`, content, "utf8");
     return this;
   }
 }
@@ -45,9 +43,9 @@ markdown
   .header("Bing Wallpaper", 1)
   .paragraph(link(website, website))
   .header("Local Preview", 2)
-  .codeBlock(`deno task start`)
+  .codeBlock(`npm run start`)
   .header("Get Latest Bing Wallpaper", 2)
-  .codeBlock("deno task wallpapers")
+  .codeBlock("npm run wallpapers")
   .header("Latest Bing Wallpaper", 2);
 
 type Wallpaper = {

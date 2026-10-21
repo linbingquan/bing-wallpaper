@@ -5,13 +5,13 @@
 ## Local Preview
 
 ```bash
-deno task start
+npm run start
 ```
 
 ## Get Latest Bing Wallpaper
 
 ```bash
-deno task wallpapers
+npm run wallpapers
 ```
 
 ## Latest Bing Wallpaper
@@ -27,3 +27,4 @@ deno task wallpapers
 ![20261018](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261017](https://cn.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261017](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+

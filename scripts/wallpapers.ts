@@ -1,4 +1,5 @@
 import { wallpapers } from "@scope/wallpapers";
+import { writeFileSync } from "node:fs";
 
 const path = "./packages/wallpapers/wallpapers.json";
 
@@ -55,7 +56,7 @@ async function fetchWallpapers(BING_URL: string, mkt = "zh-CN") {
     Number(a.enddate) - Number(b.enddate)
   );
   const string = JSON.stringify(array, null, 2);
-  Deno.writeTextFileSync(path, string);
+  writeFileSync(path, string, "utf8");
   console.log(`${BING_URL} -> ${path} 更新成功`);
 }
 
