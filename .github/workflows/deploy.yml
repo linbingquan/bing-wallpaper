@@ -25,39 +25,47 @@ jobs:
         with:
           node-version: "lts/*"
 
-      - run: |
-          node --version
-          npm --version
-          npm install
-      - run: |
-          npm run wallpapers
-      - run: |
-          npm run markdown
+      - name: Install
+        run: npm install --no-audit --no-fund
 
-      - name: Commit files
+      - name: Typecheck & test
         run: |
-          git config --local user.email "695601626@qq.com"
-          git config --local user.name "linbingquan"
-          git add .
-          git commit -m "feat(deploy): workflow action for deploy" || echo "no changes to commit"
+          npm run typecheck
+          npm test
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+      - name: Update wallpapers & README
+        run: |
+          npm run wallpapers
+          npm run markdown
 
       - name: Build
         run: npm run build
 
+      # 只提交生成的数据与 README，避免误提交其它文件
+      - name: Commit generated files
+        if: github.event_name != 'pull_request'
+        run: |
+          git config --local user.email "695601626@qq.com"
+          git config --local user.name "linbingquan"
+          git add packages/wallpapers/wallpapers.json README.md
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+          else
+            git commit -m "docs: update wallpapers [skip ci]"
+            git push
+          fi
+
       - name: Setup Pages
+        if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v6
 
       - name: Upload Artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5
         with:
           path: "./packages/hono/dist"
 
       - name: Deploy to GitHub Pages
+        if: github.event_name != 'pull_request'
         id: deployment
         uses: actions/deploy-pages@v5

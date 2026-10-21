@@ -5,21 +5,22 @@
   "type": "module",
   "workspaces": ["packages/*"],
   "scripts": {
-    "start": "npm run server",
-    "server": "serve ./packages/hono/dist",
-    "build": "npm run wallpapers && npm run tailwind --workspace=@scope/hono && npm run build --workspace=@scope/hono",
+    "start": "npm run build && npm run serve",
+    "serve": "serve ./packages/hono/dist",
+    "build": "tsx packages/hono/build.ts",
+    "wallpapers": "tsx scripts/wallpapers.ts",
     "markdown": "tsx scripts/markdown.ts",
-    "wallpapers": "tsx scripts/wallpapers.ts"
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "hono": "^4.13.13"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",
-    "@tailwindcss/cli": "^4.3.3",
     "serve": "^14.2.6",
-    "tailwindcss": "^4.3.3",
     "tsx": "^4.23.15",
-    "typescript": "^7.0.2"
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
   }
 }
