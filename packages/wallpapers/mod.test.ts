@@ -103,14 +103,14 @@ describe("recentWallpapers", () => {
     expect(wwwItems).toEqual([]);
   });
 
-  it("默认上限为 200", () => {
-    const items = Array.from({ length: 300 }, (_, index) =>
+  it("默认上限为 365", () => {
+    const items = Array.from({ length: 366 }, (_, index) =>
       wallpaper(
         `https://www.bing.com/th?id=OHR.W${index}_EN-US_UHD.jpg`,
         `2026${String(index).padStart(4, "0")}`,
       ),
     );
     const { www: wwwItems } = recentWallpapers(items);
-    expect(wwwItems).toHaveLength(200);
+    expect(wwwItems).toHaveLength(365);
   });
 });
