@@ -1,7 +1,12 @@
-import { clean, dedupeById, imageId, type Wallpaper } from "@scope/wallpapers";
+import {
+  clean,
+  dedupeById,
+  imageId,
+  type Wallpaper,
+} from "../src/wallpapers.ts";
 import { readFile, writeFile } from "node:fs/promises";
 
-const PATH = new URL("../packages/wallpapers/wallpapers.json", import.meta.url);
+const PATH = new URL("../data/wallpapers.json", import.meta.url);
 
 /** Bing 壁纸接口返回的原始数据 */
 interface RawImage {

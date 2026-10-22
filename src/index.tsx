@@ -1,8 +1,8 @@
-import { recentWallpapers } from "@scope/wallpapers";
-import { wallpapers } from "@scope/wallpapers/data";
 import { Hono } from "hono";
 import type { JSX } from "hono/jsx/jsx-runtime";
+import { wallpapers } from "./data.ts";
 import Wallpaper from "./Wallpaper.tsx";
+import { recentWallpapers } from "./wallpapers.ts";
 
 /** 首页只渲染最近 N 条，避免一次性输出上千个节点 */
 const recent = recentWallpapers(wallpapers);

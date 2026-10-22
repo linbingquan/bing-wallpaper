@@ -3,27 +3,21 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "workspaces": [
-    "packages/*"
-  ],
   "scripts": {
-    "start": "npm run build && npm run serve",
-    "serve": "serve ./packages/hono/dist",
-    "build": "tsx packages/hono/build.ts",
-    "wallpapers": "tsx scripts/wallpapers.ts",
-    "markdown": "tsx scripts/markdown.ts",
-    "test": "vitest run",
-    "fmt": "bun fmt",
-    "check": "bun check"
+    "start": "bun run build && bun run serve",
+    "serve": "bun scripts/serve.ts",
+    "build": "bun src/build.ts",
+    "wallpapers": "bun scripts/wallpapers.ts",
+    "markdown": "bun scripts/markdown.ts",
+    "test": "bun test",
+    "fmt": "bun fmt --no-script",
+    "check": "bun check --no-script"
   },
   "dependencies": {
     "hono": "^4.13.13"
   },
   "devDependencies": {
-    "@types/node": "^26.6.5",
-    "serve": "^14.2.6",
-    "tsx": "^4.23.15",
-    "typescript": "^7.0.2",
-    "vitest": "^5.0.5"
+    "@types/bun": "^1.4.3",
+    "@types/node": "^26.6.5"
   }
 }

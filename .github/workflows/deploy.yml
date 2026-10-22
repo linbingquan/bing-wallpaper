@@ -21,26 +21,26 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-node@v7
+      - uses: oven-sh/setup-bun@v2
         with:
-          node-version: "lts/*"
+          bun-version: latest
 
       - name: Install
-        run: npm ci --no-audit --no-fund
+        run: bun install --frozen-lockfile
 
       - name: Typecheck & test
         run: |
-          npm run typecheck
-          npm test
+          bun run check
+          bun test
 
       - name: Update wallpapers & README
         if: github.event_name == 'push'
         run: |
-          npm run wallpapers
-          npm run markdown
+          bun run wallpapers
+          bun run markdown
 
       - name: Build
-        run: npm run build
+        run: bun run build
 
       # 只提交生成的数据与 README，避免误提交其它文件
       - name: Commit generated files
@@ -48,7 +48,7 @@ jobs:
         run: |
           git config --local user.email "695601626@qq.com"
           git config --local user.name "linbingquan"
-          git add packages/wallpapers/wallpapers.json README.md
+          git add data/wallpapers.json README.md
           if git diff --cached --quiet; then
             echo "no changes to commit"
           else
@@ -64,7 +64,7 @@ jobs:
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5
         with:
-          path: "./packages/hono/dist"
+          path: "./dist"
 
       - name: Deploy to GitHub Pages
         if: github.event_name != 'pull_request'

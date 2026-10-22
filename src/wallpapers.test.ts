@@ -1,4 +1,4 @@
-import { describe, expect, it } from "vitest";
+import { describe, expect, it } from "bun:test";
 import {
   dedupeById,
   imageId,
@@ -7,7 +7,7 @@ import {
   sourceOf,
   thumbnailUrl,
   type Wallpaper,
-} from "./mod.ts";
+} from "./wallpapers.ts";
 
 const cn = "https://cn.bing.com/th?id=OHR.A_ZH-CN1_UHD.jpg";
 const www = "https://www.bing.com/th?id=OHR.B_EN-US2_UHD.jpg";

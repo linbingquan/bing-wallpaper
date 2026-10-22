@@ -1,6 +1,6 @@
-import { normalize, thumbnailUrl, type Wallpaper } from "@scope/wallpapers";
-import { wallpapers } from "@scope/wallpapers/data";
 import { writeFile } from "node:fs/promises";
+import { wallpapers } from "../src/data.ts";
+import { normalize, thumbnailUrl, type Wallpaper } from "../src/wallpapers.ts";
 
 /** README 中除最新列表外展示的条数 */
 const PREVIEW_COUNT = 9;
@@ -28,7 +28,7 @@ class Markdown {
     return this;
   }
   async write(url: URL) {
-    await writeFile(url, this.content, "utf8");
+    await writeFile(url, `${this.content.trimEnd()}\n`, "utf8");
     return this;
   }
 }
@@ -42,9 +42,9 @@ const markdown = new Markdown()
   .header("Bing Wallpaper", 1)
   .paragraph(link(website, website))
   .header("Local Preview", 2)
-  .codeBlock("npm install\nnpm run start")
+  .codeBlock("bun install\nbun run start")
   .header("Get Latest Bing Wallpaper", 2)
-  .codeBlock("npm run wallpapers")
+  .codeBlock("bun run wallpapers")
   .header("Latest Bing Wallpaper", 2);
 
 const today = latest[0];

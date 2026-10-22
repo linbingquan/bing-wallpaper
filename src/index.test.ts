@@ -1,6 +1,6 @@
-import { describe, expect, it } from "vitest";
-import { RECENT_LIMIT } from "@scope/wallpapers";
+import { describe, expect, it } from "bun:test";
 import app from "./index.tsx";
+import { RECENT_LIMIT } from "./wallpapers.ts";
 
 describe("首页", () => {
   it("只渲染最近 365 条（RECENT_LIMIT）", async () => {

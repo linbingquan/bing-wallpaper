@@ -5,14 +5,14 @@
 ## Local Preview
 
 ```bash
-npm install
-npm run start
+bun install
+bun run start
 ```
 
 ## Get Latest Bing Wallpaper
 
 ```bash
-npm run wallpapers
+bun run wallpapers
 ```
 
 ## Latest Bing Wallpaper

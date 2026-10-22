@@ -13,14 +13,9 @@
     "noUncheckedIndexedAccess": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "types": ["node"],
+    "types": ["node", "bun"],
     "allowImportingTsExtensions": true,
     "noEmit": true
   },
-  "include": [
-    "packages/**/*.ts",
-    "packages/**/*.tsx",
-    "scripts/**/*.ts",
-    "vitest.config.ts"
-  ]
+  "include": ["src/**/*.ts", "src/**/*.tsx", "scripts/**/*.ts"]
 }
