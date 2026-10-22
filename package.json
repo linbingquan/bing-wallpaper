@@ -13,7 +13,8 @@
     "wallpapers": "tsx scripts/wallpapers.ts",
     "markdown": "tsx scripts/markdown.ts",
     "test": "vitest run",
-    "typecheck": "tsc --noEmit"
+    "fmt": "bun fmt",
+    "check": "bun check"
   },
   "dependencies": {
     "hono": "^4.13.13"
