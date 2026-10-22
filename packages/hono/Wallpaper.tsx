@@ -1,18 +1,28 @@
+import { thumbnailUrl, type Wallpaper as WallpaperData } from "@scope/wallpapers";
+
 interface Props {
-  enddate: string | number;
-  url: string;
-  copyright: string;
+  item: WallpaperData;
 }
 
-export default function Wallpaper(props: Props) {
+export default function Wallpaper({ item }: Props) {
+  const alt = item.copyright || item.enddate;
   return (
     <div class="wallpaper">
-      <a href={props.url} target="_blank">
-        <img loading="lazy" src={props.url + "&rf=LaDigue_UHD.jpg&w=400&c=1"} />
+      <a href={item.url} target="_blank" rel="noreferrer noopener">
+        <img
+          loading="lazy"
+          decoding="async"
+          src={thumbnailUrl(item.url, 400)}
+          alt={alt}
+          width="400"
+          height="225"
+        />
       </a>
       <div class="footer">
-        <div>{props.enddate}</div>
-        <div>{props.copyright}</div>
+        <div class="enddate">{item.enddate}</div>
+        <div class="copyright" title={item.copyright}>
+          {item.copyright}
+        </div>
       </div>
     </div>
   );

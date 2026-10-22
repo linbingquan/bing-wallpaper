@@ -1,32 +1,28 @@
-import { wallpapers } from "@scope/wallpapers";
+import { recentWallpapers } from "@scope/wallpapers";
+import { wallpapers } from "@scope/wallpapers/data";
 import { Hono } from "hono";
 import type { JSX } from "hono/jsx/jsx-runtime";
 import Wallpaper from "./Wallpaper.tsx";
-import { readFileSync } from "node:fs";
 
-const styles = readFileSync(new URL("./dist/styles.css", import.meta.url), "utf8");
-
-const cn = wallpapers.filter((item) => item.url.includes("cn.bing.com"));
-const www = wallpapers.filter((item) => item.url.includes("www.bing.com"));
-
-cn.sort((a, b) => Number(b.enddate) - Number(a.enddate));
-www.sort((a, b) => Number(b.enddate) - Number(a.enddate));
+/** 首页只渲染最近 N 条，避免一次性输出上千个节点 */
+const recent = recentWallpapers(wallpapers);
 
 function App({ Component }: { Component: () => JSX.Element }) {
   return (
-    <html>
+    <html lang="zh-CN">
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+          name="description"
+          content="Bing 每日壁纸归档，收录 cn.bing.com 与 www.bing.com 的历史壁纸。"
+        />
         <title>bing-wallpaper</title>
-        <link rel="icon" href="/favicon.ico" sizes="32x32" />
-        <link rel="icon" href="/logo.svg" type="image/svg+xml" />
+        <link rel="stylesheet" href="styles.css" />
         <link
           rel="author"
           href="林炳权,linbingquan,https://github.com/linbingquan/bing-wallpaper"
         />
-        <style>{styles}</style>
-        <script type="text/javascript" src="/clarity.js"></script>
       </head>
       <body>
         <Component />
@@ -35,35 +31,27 @@ function App({ Component }: { Component: () => JSX.Element }) {
   );
 }
 
+function Gallery({ items, label }: { items: typeof recent.cn; label: string }) {
+  return (
+    <section class="bing-wallpaper" aria-label={label}>
+      {items.map((item) => (
+        <Wallpaper key={item.url} item={item} />
+      ))}
+    </section>
+  );
+}
+
 function Home() {
   return (
-    <div>
-      <div class="bing-wallpaper">
-        {cn.map((item) => (
-          <Wallpaper
-            url={item.url}
-            enddate={item.enddate}
-            copyright={item.copyright}
-          />
-        ))}
-      </div>
-      <div class="bing-wallpaper">
-        {www.map((item) => (
-          <Wallpaper
-            url={item.url}
-            enddate={item.enddate}
-            copyright={item.copyright}
-          />
-        ))}
-      </div>
-    </div>
+    <>
+      <Gallery items={recent.cn} label="Bing 壁纸（中文）" />
+      <Gallery items={recent.www} label="Bing 壁纸（国际）" />
+    </>
   );
 }
 
 const app = new Hono();
 
-app.get("/", (c) => {
-  return c.html(<App Component={Home} />);
-});
+app.get("/", (c) => c.html(<App Component={Home} />));
 
 export default app;

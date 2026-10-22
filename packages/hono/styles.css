@@ -1,5 +1,3 @@
-@import "tailwindcss";
-
 :root {
   font-family:
     ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
@@ -7,63 +5,61 @@
   color-scheme: light dark;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   background: #0d1117;
 }
 
-.bing-wallpaper img {
-  width: 400px;
-}
-
 .bing-wallpaper {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
-}
-
-@media all and (max-width: 1536px) {
-  .bing-wallpaper {
-    grid-template-columns: repeat(6, 1fr);
-  }
-}
-@media all and (max-width: 1280px) {
-  .bing-wallpaper {
-    grid-template-columns: repeat(5, 1fr);
-  }
-}
-@media all and (max-width: 1024px) {
-  .bing-wallpaper {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-@media all and (max-width: 768px) {
-  .bing-wallpaper {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-@media all and (max-width: 640px) {
-  .bing-wallpaper {
-    grid-template-columns: repeat(2, 1fr);
-  }
+  gap: 2px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 }
 
 .bing-wallpaper .wallpaper {
-  overflow: hidden;
   position: relative;
+  overflow: hidden;
+}
+
+.bing-wallpaper .wallpaper img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
 }
 
 .bing-wallpaper .wallpaper .footer {
   position: absolute;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  display: none;
-  padding: 4px;
+  inset: auto 0 0 0;
+  padding: 4px 8px;
   font-size: 12px;
+  line-height: 1.4;
   color: #fff;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6));
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7));
 }
 
-.bing-wallpaper .wallpaper:hover .footer {
-  display: block;
+.bing-wallpaper .wallpaper .footer > div {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* 触屏没有 hover，底部信息常驻；有指针设备时用 hover 显隐 */
+@media (hover: hover) and (pointer: fine) {
+  .bing-wallpaper .wallpaper .footer {
+    opacity: 0;
+    transition: opacity 0.15s ease-in-out;
+  }
+
+  .bing-wallpaper .wallpaper:hover .footer,
+  .bing-wallpaper .wallpaper:focus-within .footer {
+    opacity: 1;
+  }
 }
