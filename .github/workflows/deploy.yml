@@ -42,7 +42,7 @@ jobs:
       - name: Build
         run: bun run build
 
-      # 只提交生成的数据与 README，避免误提交其它文件
+      # Only commit generated data and README to avoid accidentally committing other files
       - name: Commit generated files
         if: github.event_name != 'pull_request'
         run: |
