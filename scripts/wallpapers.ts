@@ -43,11 +43,14 @@ async function fetchImages(
       const res = await fetch(url, { signal: AbortSignal.timeout(TIMEOUT) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const json: { images?: RawImage[] } = await res.json();
-      if (!Array.isArray(json.images)) throw new Error('Response missing "images" field');
+      if (!Array.isArray(json.images))
+        throw new Error('Response missing "images" field');
       return json.images;
     } catch (error) {
       if (attempt >= RETRY) {
-        throw new Error(`${url} request failed: ${String(error)}`, { cause: error });
+        throw new Error(`${url} request failed: ${String(error)}`, {
+          cause: error,
+        });
       }
       await new Promise((resolve) => setTimeout(resolve, 1000));
     }

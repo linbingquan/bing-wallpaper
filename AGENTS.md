@@ -10,16 +10,16 @@
 
 ## Scripts
 
-| Script | Description |
-|--------|-------------|
-| `bun run dev` | Build wallpapers and start local preview server |
-| `bun run serve` | Start the static file server (requires built data) |
-| `bun run build` | Fetch and process wallpapers into `data/` |
-| `bun run wallpapers` | Fetch latest wallpapers via API |
-| `bun run markdown` | Generate markdown output |
-| `bun test` | Run tests |
-| `bun fmt` | Format code |
-| `bun check` | Type-check code |
+| Script               | Description                                        |
+| -------------------- | -------------------------------------------------- |
+| `bun run dev`        | Build wallpapers and start local preview server    |
+| `bun run serve`      | Start the static file server (requires built data) |
+| `bun run build`      | Fetch and process wallpapers into `data/`          |
+| `bun run wallpapers` | Fetch latest wallpapers via API                    |
+| `bun run markdown`   | Generate markdown output                           |
+| `bun test`           | Run tests                                          |
+| `bun fmt`            | Format code                                        |
+| `bun check`          | Type-check code                                    |
 
 ## Project Structure
 
