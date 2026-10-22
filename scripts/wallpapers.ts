@@ -1,64 +1,89 @@
-import { wallpapers } from "@scope/wallpapers";
-import { writeFileSync } from "node:fs";
+import { clean, dedupeById, imageId, type Wallpaper } from "@scope/wallpapers";
+import { readFile, writeFile } from "node:fs/promises";
 
-const path = "./packages/wallpapers/wallpapers.json";
+const PATH = new URL("../packages/wallpapers/wallpapers.json", import.meta.url);
 
-/** 壁纸图片 */
-interface Wallpaper {
-  /** 图片时间 */
+/** Bing 壁纸接口返回的原始数据 */
+interface RawImage {
   enddate?: string;
-  /** 图片版权 */
   copyright?: string;
-  /** 图片地址 */
   url?: string;
 }
 
-async function fetchWallpapers(BING_URL: string, mkt = "zh-CN") {
-  mkt = BING_URL.includes("cn") ? `&mkt=${mkt}` : "";
-  /** bing 壁纸地址 API */
-  const BING_API =
-    `${BING_URL}/HPImageArchive.aspx?format=js&idx=0&n=8&uhd=1&uhdwidth=3840&uhdheight=2160` +
-    mkt;
+/** 来源站点，cn 使用中文市场 */
+const SOURCES = [
+  { base: "https://cn.bing.com", mkt: "zh-CN" },
+  { base: "https://www.bing.com", mkt: undefined },
+] as const;
 
-  const images = await fetch(BING_API)
-    .then((res) => res.json())
-    .then((json: { images: Wallpaper[] }) => json.images);
+const TIMEOUT = 15_000;
+const RETRY = 2;
 
-  images.forEach((image) => {
-    const {
-      url = "", // 图片地址
-      enddate = "", // 结束图片时间
-      copyright = "", // 图片版权
-    } = image;
+/** 请求 bing 壁纸列表 */
+async function fetchImages(
+  base: string,
+  mkt: string | undefined,
+): Promise<RawImage[]> {
+  const url = new URL("/HPImageArchive.aspx", base);
+  url.searchParams.set("format", "js");
+  url.searchParams.set("idx", "0");
+  url.searchParams.set("n", "8");
+  url.searchParams.set("uhd", "1");
+  url.searchParams.set("uhdwidth", "3840");
+  url.searchParams.set("uhdheight", "2160");
+  if (mkt !== undefined) url.searchParams.set("mkt", mkt);
 
-    // 查找最新的壁纸
-    const wallpaper = wallpapers.find((item) =>
-      new URL(item.url).searchParams.get("id") ===
-        new URL(`${BING_URL}${url}`).searchParams.get("id")
-    );
-    // 没找到今天的壁纸
-    if (wallpaper === undefined) {
-      // 追加今天的壁纸
-      const originUrl = url.slice(0, url.indexOf("&"));
-
-      const wallpaper = {
-        enddate: enddate,
-        copyright,
-        url: `${BING_URL}${originUrl}`,
-      };
-      console.log(wallpaper);
-      wallpapers.push(wallpaper);
+  for (let attempt = 1; ; attempt += 1) {
+    try {
+      const res = await fetch(url, { signal: AbortSignal.timeout(TIMEOUT) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const json: { images?: RawImage[] } = await res.json();
+      if (!Array.isArray(json.images)) throw new Error("响应缺少 images 字段");
+      return json.images;
+    } catch (error) {
+      if (attempt >= RETRY) {
+        throw new Error(`${url} 请求失败: ${String(error)}`, { cause: error });
+      }
+      await new Promise((resolve) => setTimeout(resolve, 1000));
     }
-  });
-
-  // 格式化 json 并写入文件
-  const array = wallpapers.sort((a, b) =>
-    Number(a.enddate) - Number(b.enddate)
-  );
-  const string = JSON.stringify(array, null, 2);
-  writeFileSync(path, string, "utf8");
-  console.log(`${BING_URL} -> ${path} 更新成功`);
+  }
 }
 
-await fetchWallpapers("https://cn.bing.com");
-await fetchWallpapers("https://www.bing.com");
+/** 原始数据转成壁纸记录 */
+function toWallpaper(base: string, raw: RawImage): Wallpaper | undefined {
+  const { url = "", enddate = "", copyright = "" } = raw;
+  if (!url) return undefined;
+  // 去掉尺寸参数，只保留 id，缩略图在展示时再拼
+  const originUrl = url.split("&")[0] as string;
+  return { enddate, copyright, url: `${base}${originUrl}` };
+}
+
+const wallpapers: Wallpaper[] = JSON.parse(await readFile(PATH, "utf8"));
+let failed = false;
+
+for (const { base, mkt } of SOURCES) {
+  try {
+    const images = await fetchImages(base, mkt);
+    const latest = images
+      .map((image) => toWallpaper(base, image))
+      .filter((item): item is Wallpaper => item !== undefined);
+
+    // 按 id 去重：同一张图在 cn / www 上的地址不同，但 id 相同
+    const known = new Set(dedupeById(wallpapers).map((item) => imageId(item.url)));
+    const added = latest.filter((item) => {
+      const id = imageId(item.url);
+      return id !== undefined && !known.has(id);
+    });
+
+    wallpapers.push(...added);
+    console.log(`[${base}] 拉取 ${latest.length} 条，新增 ${added.length} 条`);
+  } catch (error) {
+    failed = true;
+    console.error(`[${base}] ${(error as Error).message}`);
+  }
+}
+
+const result = clean(wallpapers);
+await writeFile(PATH, `${JSON.stringify(result, null, 2)}\n`, "utf8");
+console.log(`共 ${result.length} 条 -> ${PATH.pathname}`);
+if (failed) process.exitCode = 1;
