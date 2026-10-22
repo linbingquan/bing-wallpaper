@@ -2,7 +2,7 @@ import { writeFile } from "node:fs/promises";
 import { wallpapers } from "../src/data.ts";
 import { normalize, thumbnailUrl, type Wallpaper } from "../src/wallpapers.ts";
 
-/** README 中除最新列表外展示的条数 */
+/** Number of preview items to show in README (excluding the latest) */
 const PREVIEW_COUNT = 9;
 
 function link(text = "", url = "") {
@@ -35,7 +35,7 @@ class Markdown {
 
 const website = "https://linbingquan.github.io/bing-wallpaper/";
 
-// 不修改导入的数据，避免污染同进程中的其它调用方
+// Do not mutate imported data to avoid polluting other callers in the same process
 const latest: Wallpaper[] = normalize(wallpapers);
 
 const markdown = new Markdown()
@@ -61,5 +61,5 @@ markdown.paragraph(
 
 await markdown.write(new URL("../README.md", import.meta.url));
 console.log(
-  `README.md 更新成功（${Math.min(latest.length, PREVIEW_COUNT + 1)} 条）`,
+  `README.md updated (${Math.min(latest.length, PREVIEW_COUNT + 1)} items)`,
 );

@@ -51,7 +51,7 @@ body {
   text-overflow: ellipsis;
 }
 
-/* 触屏没有 hover，底部信息常驻；有指针设备时用 hover 显隐 */
+/* On touch devices (no hover), footer is always visible; on pointer devices, use hover to show/hide */
 @media (hover: hover) and (pointer: fine) {
   .bing-wallpaper .wallpaper .footer {
     opacity: 0;

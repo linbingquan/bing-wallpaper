@@ -8,10 +8,10 @@ const dir = fileURLToPath(new URL("../dist/", import.meta.url));
 
 await rm(dir, { recursive: true, force: true });
 await toSSG(app, fs, { dir });
-// 静态资源：样式表不内联进 HTML，方便浏览器缓存
+// Static asset: keep CSS in a separate file for browser caching
 await cp(
   fileURLToPath(new URL("./styles.css", import.meta.url)),
   fileURLToPath(new URL("../dist/styles.css", import.meta.url)),
 );
 
-console.log(`build 完成 -> ${dir}`);
+console.log(`build complete -> ${dir}`);

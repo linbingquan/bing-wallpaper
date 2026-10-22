@@ -4,24 +4,24 @@ import { wallpapers } from "./data.ts";
 import Wallpaper from "./Wallpaper.tsx";
 import { recentWallpapers } from "./wallpapers.ts";
 
-/** 首页只渲染最近 N 条，避免一次性输出上千个节点 */
+/** Only render the latest N items on the homepage to avoid rendering thousands of nodes at once */
 const recent = recentWallpapers(wallpapers);
 
 function App({ Component }: { Component: () => JSX.Element }) {
   return (
-    <html lang="zh-CN">
+    <html lang="en">
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="Bing 每日壁纸归档，收录 cn.bing.com 与 www.bing.com 的历史壁纸。"
+          content="Bing daily wallpaper archive, collecting historical wallpapers from cn.bing.com and www.bing.com."
         />
         <title>bing-wallpaper</title>
         <link rel="stylesheet" href="styles.css" />
         <link
           rel="author"
-          href="林炳权,linbingquan,https://github.com/linbingquan/bing-wallpaper"
+          href="Bing Wallpaper Archive, 林炳权, linbingquan, https://github.com/linbingquan/bing-wallpaper"
         />
       </head>
       <body>
@@ -44,8 +44,8 @@ function Gallery({ items, label }: { items: typeof recent.cn; label: string }) {
 function Home() {
   return (
     <>
-      <Gallery items={recent.cn} label="Bing 壁纸（中文）" />
-      <Gallery items={recent.www} label="Bing 壁纸（国际）" />
+      <Gallery items={recent.cn} label="Bing Wallpaper (Chinese)" />
+      <Gallery items={recent.www} label="Bing Wallpaper (International)" />
     </>
   );
 }

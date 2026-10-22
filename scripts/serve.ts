@@ -1,7 +1,7 @@
-/** 本地预览 `dist/` 中的静态页面，替代 `serve` 依赖 */
+/** Serves static pages from `dist/` for local preview (replaces `serve` dependency) */
 const root = new URL("../dist/", import.meta.url);
 
-/** 把请求路径映射到 dist 内的文件，越界（如 ../）时返回 undefined */
+/** Maps a request path to a file under dist; returns undefined for out-of-bounds paths (e.g. ../) */
 function resolve(pathname: string): URL | undefined {
   const file = new URL(`.${pathname === "/" ? "/index.html" : pathname}`, root);
   return file.href.startsWith(root.href) ? file : undefined;
@@ -17,4 +17,4 @@ const server = Bun.serve({
   },
 });
 
-console.log(`预览地址 -> ${server.url}`);
+console.log(`Preview URL -> ${server.url}`);

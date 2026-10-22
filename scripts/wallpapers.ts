@@ -8,14 +8,14 @@ import { readFile, writeFile } from "node:fs/promises";
 
 const PATH = new URL("../data/wallpapers.json", import.meta.url);
 
-/** Bing 壁纸接口返回的原始数据 */
+/** Raw data returned by the Bing wallpaper API */
 interface RawImage {
   enddate?: string;
   copyright?: string;
   url?: string;
 }
 
-/** 来源站点，cn 使用中文市场 */
+/** Source sites; cn uses the Chinese market */
 const SOURCES = [
   { base: "https://cn.bing.com", mkt: "zh-CN" },
   { base: "https://www.bing.com", mkt: undefined },
@@ -24,7 +24,7 @@ const SOURCES = [
 const TIMEOUT = 15_000;
 const RETRY = 2;
 
-/** 请求 bing 壁纸列表 */
+/** Fetch the Bing wallpaper list */
 async function fetchImages(
   base: string,
   mkt: string | undefined,
@@ -43,22 +43,22 @@ async function fetchImages(
       const res = await fetch(url, { signal: AbortSignal.timeout(TIMEOUT) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const json: { images?: RawImage[] } = await res.json();
-      if (!Array.isArray(json.images)) throw new Error("响应缺少 images 字段");
+      if (!Array.isArray(json.images)) throw new Error('Response missing "images" field');
       return json.images;
     } catch (error) {
       if (attempt >= RETRY) {
-        throw new Error(`${url} 请求失败: ${String(error)}`, { cause: error });
+        throw new Error(`${url} request failed: ${String(error)}`, { cause: error });
       }
       await new Promise((resolve) => setTimeout(resolve, 1000));
     }
   }
 }
 
-/** 原始数据转成壁纸记录 */
+/** Convert raw data into a wallpaper record */
 function toWallpaper(base: string, raw: RawImage): Wallpaper | undefined {
   const { url = "", enddate = "", copyright = "" } = raw;
   if (!url) return undefined;
-  // 去掉尺寸参数，只保留 id，缩略图在展示时再拼
+  // Strip size params, keep only the id; thumbnails are constructed at display time
   const originUrl = url.split("&")[0] as string;
   return { enddate, copyright, url: `${base}${originUrl}` };
 }
@@ -74,7 +74,7 @@ const allFailedOrEmpty = results.every(
 );
 
 if (allFailedOrEmpty) {
-  console.error("所有来源均失败或返回空数组，跳过写盘");
+  console.error("All sources failed or returned empty; skipping write");
   process.exitCode = 1;
 } else {
   for (let i = 0; i < results.length; i++) {
@@ -96,7 +96,7 @@ if (allFailedOrEmpty) {
 
       wallpapers.push(...added);
       console.log(
-        `[${base}] 拉取 ${latest.length} 条，新增 ${added.length} 条`,
+        `[${base}] fetched ${latest.length}, added ${added.length} new`,
       );
     } else {
       console.error(`[${base}] ${String(res.reason)}`);
@@ -105,7 +105,7 @@ if (allFailedOrEmpty) {
 
   const result = clean(wallpapers);
   await writeFile(PATH, `${JSON.stringify(result, null, 2)}\n`, "utf8");
-  console.log(`共 ${result.length} 条 -> ${PATH.pathname}`);
+  console.log(`Total ${result.length} items -> ${PATH.pathname}`);
 
   const someFailed = results.some((r) => r.status === "rejected");
   if (someFailed) process.exitCode = 1;

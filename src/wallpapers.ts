@@ -1,26 +1,26 @@
-/** 壁纸 */
+/** A Bing wallpaper entry */
 export interface Wallpaper {
-  /** 图片时间，格式 YYYYMMDD */
+  /** Image date in YYYYMMDD format */
   enddate: string;
-  /** 图片版权 */
+  /** Image copyright/caption */
   copyright: string;
-  /** 图片地址（不含尺寸参数） */
+  /** Image URL (without size parameters) */
   url: string;
 }
 
-/** 壁纸来源站点 */
+/** Wallpaper source site */
 export type Source = "cn" | "www";
 
-/** 首页展示的壁纸数量上限 */
+/** Maximum number of wallpapers shown on the homepage */
 export const RECENT_LIMIT = 365;
 
-/** 从壁纸地址中取出 bing 的图片 id */
+/** Extract the Bing image id from a wallpaper URL */
 export function imageId(url: string): string | undefined {
   const id = parseUrl(url)?.searchParams.get("id");
   return id ? id : undefined;
 }
 
-/** 从壁纸地址推断来源站点 */
+/** Infer the source site from a wallpaper URL */
 export function sourceOf(url: string): Source | undefined {
   const host = parseUrl(url)?.hostname;
   if (host === "cn.bing.com") return "cn";
@@ -28,7 +28,7 @@ export function sourceOf(url: string): Source | undefined {
   return undefined;
 }
 
-/** 生成缩略图地址 */
+/** Generate a thumbnail URL with size parameters */
 export function thumbnailUrl(url: string, width: number): string {
   const parsed = parseUrl(url);
   if (parsed === undefined) return url;
@@ -38,22 +38,22 @@ export function thumbnailUrl(url: string, width: number): string {
   return parsed.toString();
 }
 
-/** 过滤掉缺少地址或日期的脏数据 */
+/** Filter out invalid data missing URL or date */
 export function isValidWallpaper(item: Wallpaper): boolean {
   return Boolean(item.url) && /^\d{8}$/.test(item.enddate);
 }
 
-/** 按日期倒序（最新在前） */
+/** Sort by date descending (newest first) */
 export function sortByDateDesc(items: readonly Wallpaper[]): Wallpaper[] {
   return [...items].sort((a, b) => b.enddate.localeCompare(a.enddate));
 }
 
-/** 按日期正序（数据文件按此顺序追加写入，diff 更小） */
+/** Sort by date ascending (for data file writes to minimize diff) */
 export function sortByDateAsc(items: readonly Wallpaper[]): Wallpaper[] {
   return [...items].sort((a, b) => a.enddate.localeCompare(b.enddate));
 }
 
-/** 按图片 id 去重，保留先出现的记录 */
+/** Deduplicate by image id, keeping the first occurrence */
 export function dedupeById(items: readonly Wallpaper[]): Wallpaper[] {
   const seen = new Set<string>();
   const result: Wallpaper[] = [];
@@ -66,19 +66,19 @@ export function dedupeById(items: readonly Wallpaper[]): Wallpaper[] {
   return result;
 }
 
-/** 清洗：去脏数据、去重、按日期正序（用于写回数据文件） */
+/** Clean: filter invalid items, deduplicate, sort ascending (for writing back to data file) */
 export function clean(items: readonly Wallpaper[]): Wallpaper[] {
   return sortByDateAsc(dedupeById(items.filter(isValidWallpaper)));
 }
 
-/** 清洗：去脏数据、去重、按日期倒序（用于展示） */
+/** Clean: filter invalid items, deduplicate, sort descending (for display) */
 export function normalize(items: readonly Wallpaper[]): Wallpaper[] {
   return sortByDateDesc(clean(items));
 }
 
 /**
- * 取最近 `limit` 条壁纸并按来源分组。
- * 两个分组内部同样是最新在前。
+ * Get the latest `limit` wallpapers grouped by source.
+ * Each group is also ordered newest first.
  */
 export function recentWallpapers(
   items: readonly Wallpaper[],
