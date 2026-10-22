@@ -6,7 +6,7 @@
 
 ```bash
 bun install
-bun run start
+bun run dev
 ```
 
 ## Get Latest Bing Wallpaper

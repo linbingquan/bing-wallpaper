@@ -4,14 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "bun run build && bun run serve",
+    "dev": "bun run build && bun run serve",
     "serve": "bun scripts/serve.ts",
     "build": "bun src/build.ts",
     "wallpapers": "bun scripts/wallpapers.ts",
-    "markdown": "bun scripts/markdown.ts",
-    "test": "bun test",
-    "fmt": "bun fmt --no-script",
-    "check": "bun check --no-script"
+    "markdown": "bun scripts/markdown.ts"
   },
   "dependencies": {
     "hono": "^4.13.13"

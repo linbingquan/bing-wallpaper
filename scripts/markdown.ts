@@ -42,7 +42,7 @@ const markdown = new Markdown()
   .header("Bing Wallpaper", 1)
   .paragraph(link(website, website))
   .header("Local Preview", 2)
-  .codeBlock("bun install\nbun run start")
+  .codeBlock("bun install\nbun run dev")
   .header("Get Latest Bing Wallpaper", 2)
   .codeBlock("bun run wallpapers")
   .header("Latest Bing Wallpaper", 2);
