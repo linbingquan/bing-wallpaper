@@ -5,6 +5,7 @@
 ## Local Preview
 
 ```bash
+npm install
 npm run start
 ```
 
