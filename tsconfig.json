@@ -17,5 +17,10 @@
     "allowImportingTsExtensions": true,
     "noEmit": true
   },
-  "include": ["packages/**/*.ts", "packages/**/*.tsx", "scripts/**/*.ts", "vitest.config.ts"]
+  "include": [
+    "packages/**/*.ts",
+    "packages/**/*.tsx",
+    "scripts/**/*.ts",
+    "vitest.config.ts"
+  ]
 }

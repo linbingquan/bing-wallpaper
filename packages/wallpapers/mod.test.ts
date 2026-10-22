@@ -43,16 +43,12 @@ describe("sourceOf", () => {
 
 describe("thumbnailUrl", () => {
   it("补上尺寸参数", () => {
-    expect(thumbnailUrl(cn, 400)).toBe(
-      `${cn}&rf=LaDigue_UHD.jpg&w=400&c=1`,
-    );
+    expect(thumbnailUrl(cn, 400)).toBe(`${cn}&rf=LaDigue_UHD.jpg&w=400&c=1`);
   });
 
   it("重复调用不会叠加参数", () => {
     const once = thumbnailUrl(cn, 400);
-    expect(thumbnailUrl(once, 272)).toBe(
-      `${cn}&rf=LaDigue_UHD.jpg&w=272&c=1`,
-    );
+    expect(thumbnailUrl(once, 272)).toBe(`${cn}&rf=LaDigue_UHD.jpg&w=272&c=1`);
   });
 
   it("缺少 query 的地址也能拼出合法参数", () => {
@@ -70,7 +66,10 @@ describe("normalize", () => {
       { enddate: "", copyright: "", url: "" },
       { enddate: "2026", copyright: "", url: www },
     ]);
-    expect(result.map((item) => item.enddate)).toEqual(["20260103", "20260101"]);
+    expect(result.map((item) => item.enddate)).toEqual([
+      "20260103",
+      "20260101",
+    ]);
   });
 });
 

@@ -60,4 +60,6 @@ markdown.paragraph(
 );
 
 await markdown.write(new URL("../README.md", import.meta.url));
-console.log(`README.md 更新成功（${Math.min(latest.length, PREVIEW_COUNT + 1)} 条）`);
+console.log(
+  `README.md 更新成功（${Math.min(latest.length, PREVIEW_COUNT + 1)} 条）`,
+);

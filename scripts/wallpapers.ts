@@ -81,14 +81,18 @@ if (allFailedOrEmpty) {
         .map((image: RawImage) => toWallpaper(base, image))
         .filter((item): item is Wallpaper => item !== undefined);
 
-      const known = new Set(dedupeById(wallpapers).map((item) => imageId(item.url)));
+      const known = new Set(
+        dedupeById(wallpapers).map((item) => imageId(item.url)),
+      );
       const added = latest.filter((item) => {
         const id = imageId(item.url);
         return id !== undefined && !known.has(id);
       });
 
       wallpapers.push(...added);
-      console.log(`[${base}] 拉取 ${latest.length} 条，新增 ${added.length} 条`);
+      console.log(
+        `[${base}] 拉取 ${latest.length} 条，新增 ${added.length} 条`,
+      );
     } else {
       console.error(`[${base}] ${String(res.reason)}`);
     }

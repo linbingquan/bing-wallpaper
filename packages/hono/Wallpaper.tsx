@@ -1,4 +1,7 @@
-import { thumbnailUrl, type Wallpaper as WallpaperData } from "@scope/wallpapers";
+import {
+  thumbnailUrl,
+  type Wallpaper as WallpaperData,
+} from "@scope/wallpapers";
 
 interface Props {
   item: WallpaperData;
