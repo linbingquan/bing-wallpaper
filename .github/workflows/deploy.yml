@@ -30,7 +30,7 @@ jobs:
 
       - name: Typecheck & test
         run: |
-          bun run check
+          bun check
           bun test
 
       - name: Update wallpapers & README
