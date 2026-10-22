@@ -3,14 +3,14 @@ import { RECENT_LIMIT } from "@scope/wallpapers";
 import app from "./index.tsx";
 
 describe("首页", () => {
-  it("只渲染最近 200 条壁纸", async () => {
+  it("只渲染最近 365 条（RECENT_LIMIT）", async () => {
     const res = await app.request("/");
     expect(res.status).toBe(200);
 
     const html = await res.text();
     const count = html.match(/class="wallpaper"/g)?.length ?? 0;
     expect(count).toBeGreaterThan(0);
-    expect(count).toBeLessThanOrEqual(RECENT_LIMIT);
+    expect(count).toBe(RECENT_LIMIT);
   });
 
   it("引用外部样式表而不是内联整份 CSS", async () => {

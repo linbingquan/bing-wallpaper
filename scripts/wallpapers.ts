@@ -59,31 +59,45 @@ function toWallpaper(base: string, raw: RawImage): Wallpaper | undefined {
 }
 
 const wallpapers: Wallpaper[] = JSON.parse(await readFile(PATH, "utf8"));
-let failed = false;
 
-for (const { base, mkt } of SOURCES) {
-  try {
-    const images = await fetchImages(base, mkt);
-    const latest = images
-      .map((image) => toWallpaper(base, image))
-      .filter((item): item is Wallpaper => item !== undefined);
+const results = await Promise.allSettled(
+  SOURCES.map(({ base, mkt }) => fetchImages(base, mkt)),
+);
 
-    // 按 id 去重：同一张图在 cn / www 上的地址不同，但 id 相同
-    const known = new Set(dedupeById(wallpapers).map((item) => imageId(item.url)));
-    const added = latest.filter((item) => {
-      const id = imageId(item.url);
-      return id !== undefined && !known.has(id);
-    });
+const allFailedOrEmpty = results.every(
+  (r) => r.status === "rejected" || r.value.length === 0,
+);
 
-    wallpapers.push(...added);
-    console.log(`[${base}] 拉取 ${latest.length} 条，新增 ${added.length} 条`);
-  } catch (error) {
-    failed = true;
-    console.error(`[${base}] ${(error as Error).message}`);
+if (allFailedOrEmpty) {
+  console.error("所有来源均失败或返回空数组，跳过写盘");
+  process.exitCode = 1;
+} else {
+  for (let i = 0; i < results.length; i++) {
+    const { base } = SOURCES[i]!;
+    const res = results[i]!;
+    if (res.status === "fulfilled") {
+      const images: RawImage[] = res.value;
+      const latest = images
+        .map((image: RawImage) => toWallpaper(base, image))
+        .filter((item): item is Wallpaper => item !== undefined);
+
+      const known = new Set(dedupeById(wallpapers).map((item) => imageId(item.url)));
+      const added = latest.filter((item) => {
+        const id = imageId(item.url);
+        return id !== undefined && !known.has(id);
+      });
+
+      wallpapers.push(...added);
+      console.log(`[${base}] 拉取 ${latest.length} 条，新增 ${added.length} 条`);
+    } else {
+      console.error(`[${base}] ${String(res.reason)}`);
+    }
   }
-}
 
-const result = clean(wallpapers);
-await writeFile(PATH, `${JSON.stringify(result, null, 2)}\n`, "utf8");
-console.log(`共 ${result.length} 条 -> ${PATH.pathname}`);
-if (failed) process.exitCode = 1;
+  const result = clean(wallpapers);
+  await writeFile(PATH, `${JSON.stringify(result, null, 2)}\n`, "utf8");
+  console.log(`共 ${result.length} 条 -> ${PATH.pathname}`);
+
+  const someFailed = results.some((r) => r.status === "rejected");
+  if (someFailed) process.exitCode = 1;
+}
