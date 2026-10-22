@@ -19,39 +19,39 @@ const wallpaper = (url: string, enddate: string): Wallpaper => ({
 });
 
 describe("imageId", () => {
-  it("取出 id 参数", () => {
+  it("extracts the id param", () => {
     expect(imageId(cn)).toBe("OHR.A_ZH-CN1_UHD.jpg");
   });
 
-  it("非法地址返回 undefined", () => {
+  it("returns undefined for invalid URLs", () => {
     expect(imageId("not a url")).toBeUndefined();
     expect(imageId("https://www.bing.com/th")).toBeUndefined();
   });
 });
 
 describe("sourceOf", () => {
-  it("区分 cn 与 www", () => {
+  it("distinguishes cn from www", () => {
     expect(sourceOf(cn)).toBe("cn");
     expect(sourceOf(www)).toBe("www");
   });
 
-  it("未知来源返回 undefined", () => {
+  it("returns undefined for unknown sources", () => {
     expect(sourceOf("https://example.com/th?id=1")).toBeUndefined();
     expect(sourceOf("")).toBeUndefined();
   });
 });
 
 describe("thumbnailUrl", () => {
-  it("补上尺寸参数", () => {
+  it("adds size parameters", () => {
     expect(thumbnailUrl(cn, 400)).toBe(`${cn}&rf=LaDigue_UHD.jpg&w=400&c=1`);
   });
 
-  it("重复调用不会叠加参数", () => {
+  it("doesn't duplicate params on repeated calls", () => {
     const once = thumbnailUrl(cn, 400);
     expect(thumbnailUrl(once, 272)).toBe(`${cn}&rf=LaDigue_UHD.jpg&w=272&c=1`);
   });
 
-  it("缺少 query 的地址也能拼出合法参数", () => {
+  it("generates valid params for URLs without query", () => {
     expect(thumbnailUrl("https://www.bing.com/th", 400)).toBe(
       "https://www.bing.com/th?rf=LaDigue_UHD.jpg&w=400&c=1",
     );
@@ -59,7 +59,7 @@ describe("thumbnailUrl", () => {
 });
 
 describe("normalize", () => {
-  it("按日期倒序并去掉脏数据", () => {
+  it("sorts by date descending and filters invalid data", () => {
     const result = normalize([
       wallpaper(cn, "20260101"),
       wallpaper(www, "20260103"),
@@ -74,7 +74,7 @@ describe("normalize", () => {
 });
 
 describe("dedupeById", () => {
-  it("同一个 id 只保留第一条", () => {
+  it("keeps only the first occurrence of each id", () => {
     const result = dedupeById([
       wallpaper(cn, "20260101"),
       wallpaper(cn, "20260102"),
@@ -86,7 +86,7 @@ describe("dedupeById", () => {
 });
 
 describe("recentWallpapers", () => {
-  it("只取最近 limit 条并按来源分组", () => {
+  it("takes only the latest N items and groups by source", () => {
     const items = Array.from({ length: 10 }, (_, index) =>
       wallpaper(
         `https://cn.bing.com/th?id=OHR.CN${index}_ZH-CN_UHD.jpg`,
@@ -102,7 +102,7 @@ describe("recentWallpapers", () => {
     expect(wwwItems).toEqual([]);
   });
 
-  it("默认上限为 365", () => {
+  it("defaults to a limit of 365", () => {
     const items = Array.from({ length: 366 }, (_, index) =>
       wallpaper(
         `https://www.bing.com/th?id=OHR.W${index}_EN-US_UHD.jpg`,
