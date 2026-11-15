@@ -8,6 +8,8 @@ on:
   schedule:
     # Runs at 17:00 UTC every day
     - cron: "0 17 * * *"
+  # Allow a manual run to recover if a scheduled run was missed
+  workflow_dispatch:
 
 jobs:
   build:
@@ -34,9 +36,12 @@ jobs:
           bun test
 
       - name: Update wallpapers & README
-        if: github.event_name == 'push'
+        # Must run for schedule and workflow_dispatch too, not only on push.
+        # Otherwise the daily cron job builds/deploys but never collects new images.
+        if: github.event_name != 'pull_request'
         run: |
           bun run wallpapers
+          bun run backfill
           bun run markdown
 
       - name: Build

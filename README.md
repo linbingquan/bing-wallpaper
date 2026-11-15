@@ -17,14 +17,14 @@ bun run wallpapers
 
 ## Latest Bing Wallpaper
 
-![20261023](https://cn.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20261115](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
-![20261023](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261022](https://cn.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261022](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261021](https://cn.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261021](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261020](https://cn.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261020](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261019](https://cn.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261019](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261115](https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261114](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261114](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261113](https://cn.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261113](https://www.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261112](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261112](https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261111](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261111](https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)

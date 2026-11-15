@@ -8,6 +8,7 @@
     "serve": "bun scripts/serve.ts",
     "build": "bun src/build.ts",
     "wallpapers": "bun scripts/wallpapers.ts",
+    "backfill": "bun scripts/backfill.ts",
     "markdown": "bun scripts/markdown.ts"
   },
   "dependencies": {
