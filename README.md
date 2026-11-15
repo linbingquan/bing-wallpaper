@@ -17,8 +17,9 @@ bun run wallpapers
 
 ## Latest Bing Wallpaper
 
-![20261115](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20261116](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20261115](https://cn.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261115](https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261114](https://cn.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261114](https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -27,4 +28,3 @@ bun run wallpapers
 ![20261112](https://cn.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261112](https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261111](https://cn.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261111](https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
