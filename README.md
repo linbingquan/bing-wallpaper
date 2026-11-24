@@ -17,8 +17,10 @@ bun run wallpapers
 
 ## Latest Bing Wallpaper
 
-![20261123](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
+![20261124](https://cn.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg&rf=LaDigue_UHD.jpg&w=900&c=1)
 
+![20261124](https://www.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
+![20261123](https://cn.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261123](https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261122](https://cn.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261122](https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
@@ -26,5 +28,3 @@ bun run wallpapers
 ![20261121](https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261120](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
 ![20261120](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261119](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
-![20261119](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&w=272&c=1)
